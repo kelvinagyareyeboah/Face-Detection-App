@@ -1,8 +1,4 @@
-#      # Main source file
-└── haarcascade_fronml   # Haar Cascade model
-```
-
-## Build & Run
+ Run
 
 ### Using g++
 
