@@ -1,6 +1,6 @@
 # Face Detection App
-
-A real-time face detection application built in C++ using OpenCV's Haar Cascade classifier.
+s
+face detection application built in C++ using OpenCV's Haar Cascade classifier.
 
 ## Demo
 
