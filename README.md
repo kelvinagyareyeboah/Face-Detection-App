@@ -5,7 +5,7 @@
 - C++ compiler (MSVC, GCC, or Clang)
 - A webcam
 ├── test.cpp                              # Main source file
-└── haarcascade_frontalface_default.xml   # Haar Cascade model
+└── haarcascade_fronml   # Haar Cascade model
 ```
 
 ## Build & Run
