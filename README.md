@@ -1,2 +1,2 @@
 # Face-Detecti
-A real-time face detection application built in using OpenCV's Haar Cascade classifier. The app captures live video from a webcam,
+A real-time face detection application built in using OpenCV's Haar Cascade classifier. The app captures live video from a w
