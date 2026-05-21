@@ -1,8 +1,6 @@
 # Face Detection App
 
-
-- [OpenCV](https://opencv.org/releases/) (4.x recommended)
-- C++ compiler (MSVC, GCC, or Clang)
+GCC, or Clang)
 - A webcam
 ├── test.cpp               # Main source file
 └── haarcascade_fronml   # Haar Cascade model
