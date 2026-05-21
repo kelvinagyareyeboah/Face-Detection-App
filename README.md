@@ -1,8 +1,4 @@
-# Face Detection App
-
-GCC, or Clang)
-- A webcam
-├── test.cpp               # Main source file
+#      # Main source file
 └── haarcascade_fronml   # Haar Cascade model
 ```
 
