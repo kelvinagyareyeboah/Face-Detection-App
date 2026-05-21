@@ -1,2 +1,1 @@
-#
-A retime face detectilication built in using 's Ha
+retime face detectilication built in using 's Ha
