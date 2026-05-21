@@ -1,1 +1,1 @@
-retime face detectilication built in using 's Ha
+retime facetilication built in using 's Ha
