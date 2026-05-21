@@ -1,2 +1,2 @@
 # Face-D
-A real-time face detection application built in using OpenCV's Haar Cascade classifier. Th
+A real-time face detection application built in using OpenCV's Haar Cascade class
