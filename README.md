@@ -1,2 +1,2 @@
 #
-A retime face detection application built in using 's Haar 
+A retime face detectilication built in using 's Haar 
