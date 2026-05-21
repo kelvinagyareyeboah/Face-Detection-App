@@ -1,1 +1,59 @@
+# Face Detection App
+
+A real-time face detection application built in C++ using OpenCV's Haar Cascade classifier.
+
+## Demo
+
+The app captures live video from a webcam, detects faces in each frame, draws bounding boxes around them, and displays a face count on screen.
+
+## Requirements
+
+- [OpenCV](https://opencv.org/releases/) (4.x recommended)
+- C++ compiler (MSVC, GCC, or Clang)
+- A webcam
+
+## Project Structure
+
+```
+face-detection-app/
+├── test.cpp                              # Main source file
+└── haarcascade_frontalface_default.xml   # Haar Cascade model
+```
+
+## Build & Run
+
+### Using g++
+
+```bash
+g++ test.cpp -o face_detection `pkg-config --cflags --libs opencv4`
+./face_detection
+```
+
+### Using MSVC (Visual Studio)
+
+1. Add OpenCV include and lib paths to your project properties.
+2. Link against the OpenCV libraries (e.g. `opencv_world480.lib`).
+3. Build and run.
+
+> **Note:** The camera index is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)` if you only have one camera.
+
+## How It Works
+
+1. Opens the webcam stream via `VideoCapture`.
+2. Loads the Haar Cascade frontal face model.
+3. On each frame, runs `detectMultiScale` to find faces.
+4. Draws a rectangle around each detected face and overlays the face count.
+
+## Dependencies
+
+| Library | Purpose |
+|---|---|
+| `opencv2/imgcodecs` | Image reading/writing |
+| `opencv2/highgui` | Window display |
+| `opencv2/imgproc` | Image processing |
+| `opencv2/objdetect` | Haar Cascade detection |
+
+## License
+
+MIT
 
