@@ -4,8 +4,7 @@
 
 ```bash
 g++ test.cpp -o face_detection `pkg-config --cflags --libs opencv4`
-./face_detection
-```
+./fa
 
 ### Using MSVC (Visual Studio)
 
