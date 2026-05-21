@@ -1,12 +1,3 @@
- Run
-
-### Using g++
-
-```bash
-g++ test.cpp -o face_detection `pkg-config --cflags --libs opencv4`
-./fa
-
-### Using MSVC (Visual Studio)
 
 1. Add OpenCV include and lib paths to your project properties.
 2. Link against the OpenCV libraries (e.g. `opencv_world480.lib`).
