@@ -4,9 +4,6 @@
 - [OpenCV](https://opencv.org/releases/) (4.x recommended)
 - C++ compiler (MSVC, GCC, or Clang)
 - A webcam
-
-## Project Structure
-
 ```
 face-detection-app/
 ├── test.cpp                              # Main source file
