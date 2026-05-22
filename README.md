@@ -2,7 +2,7 @@
 1. Add OpenC
 
 > **Note:** Tex is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)
-3. On each frame, runs `detectMultiScale` to find faces.
+3. On each frame, runs `detectMultiScale` to f
 4. Draws a rectangle around each detected fa the face count.
 
 ## Dependencies
