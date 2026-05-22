@@ -7,8 +7,7 @@
 |---|
 | `opencv2/highgui` | Window 
 | `opencv2/imgproc` | Image 
-| `opencv2/objdetect` | Haar Cascade detection |
-
+| `opencv2/objdetect` | Haar Cascade det
 ## License
 
 MIT
