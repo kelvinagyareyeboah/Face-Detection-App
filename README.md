@@ -7,7 +7,7 @@
 
 ## H
 1. Opens the webcam stream via `VideoCapture`.
-2. Loads the Haar Cascade frontal face model.
+2. Loads the Haar Cascade fron
 3. On each frame, runs `detectMultiScale` to find faces.
 4. Draws a rectangle around each detected face and overlays the face count.
 
