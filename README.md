@@ -7,7 +7,7 @@
 
 ## Dependencies
 
-| Library | Purpose |
+| Library | Pu
 |---|---|
 | `opencv2/imgcodecs` | Image reading/writing |
 | `opencv2/highgui` | Window display |
