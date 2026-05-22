@@ -48,7 +48,7 @@ The application:
 | Technology                                                                                             | Purpose                   |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) | Core programming language |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)  | Computer vision library   |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&log)  | Computer vision library   |
 | Haar Cascade                                                                                           | Face detection algorithm  |
 | Webcam                                                                                                 | Live video input          |
 
