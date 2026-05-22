@@ -5,7 +5,5 @@
 |---|
 | `opencv2/
 | `opencv2/objdetect` | Haar Cascade det
-## License
-
-MIT
+## Lic
 
