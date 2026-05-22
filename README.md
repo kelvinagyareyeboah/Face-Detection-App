@@ -4,7 +4,7 @@
 3. On each framt
 4. Draws a rectangle a
 | Library | Pu
-|---|-2/imgcodecs` | Image rea
+|---|-2/imgcodecs` |
 | `opencv2/highgui` | Window display |
 | `opencv2/imgproc` | Image 
 | `opencv2/objdetect` | Haar Cascade detection |
