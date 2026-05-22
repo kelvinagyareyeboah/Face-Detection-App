@@ -5,7 +5,7 @@
 4. Draws a re
 |---|
 | `opencv2/highgui` | Window 
-| `opencv2/imgproc
+| `opencv2/i
 | `opencv2/objdetect` | Haar Cascade det
 ## License
 
