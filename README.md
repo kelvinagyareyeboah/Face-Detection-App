@@ -4,7 +4,7 @@
 3. On each framt
 4. Draws a re
 |---|
-| `opencv2/highgui` |
+| `opencv2/
 | `opencv2/objdetect` | Haar Cascade det
 ## License
 
