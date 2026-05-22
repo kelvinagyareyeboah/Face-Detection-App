@@ -7,7 +7,7 @@
 | Library | Pu
 |---|-2/imgcodecs` | Image rea
 | `opencv2/highgui` | Window display |
-| `opencv2/imgproc` | Image processing |
+| `opencv2/imgproc` | Image 
 | `opencv2/objdetect` | Haar Cascade detection |
 
 ## License
