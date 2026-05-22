@@ -6,7 +6,7 @@
 4. Draws a rectangle around each de
 
 | Library | Pu
-|---|-2/imgcodecs` | Image reading/writing |
+|---|-2/imgcodecs` | Image rea
 | `opencv2/highgui` | Window display |
 | `opencv2/imgproc` | Image processing |
 | `opencv2/objdetect` | Haar Cascade detection |
