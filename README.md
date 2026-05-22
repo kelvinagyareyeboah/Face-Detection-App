@@ -3,7 +3,7 @@
 2. Link against the OpenCV libraries (e.g. `opencv_world480.lib`).
 3. Build and run.
 
-> **Note:** The camera index is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)
+> **Note:** Tex is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)
 ## H
 1. Opens 
 3. On each frame, runs `detectMultiScale` to find faces.
