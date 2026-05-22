@@ -5,8 +5,7 @@
 
 > **Note:** The camera index is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)` if you only have one camera.
 
-## How It Works
-
+## H
 1. Opens the webcam stream via `VideoCapture`.
 2. Loads the Haar Cascade frontal face model.
 3. On each frame, runs `detectMultiScale` to find faces.
