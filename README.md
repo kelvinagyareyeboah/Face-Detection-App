@@ -5,7 +5,7 @@
 4. Draws a rectangle a
 | Li
 |---|-2/imgcodecs` |
-| `opencv2/highgui` | Window display |
+| `opencv2/highgui` | Window 
 | `opencv2/imgproc` | Image 
 | `opencv2/objdetect` | Haar Cascade detection |
 
