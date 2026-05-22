@@ -6,7 +6,7 @@
 4. Draws a rectangle around each des
 >  the f
 
-## Dependencies
+##
 
 | Library | Pu
 |---|-2/imgcodecs` | Image reading/writing |
