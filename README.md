@@ -3,7 +3,7 @@
 2. Link against the OpenCV libraries (e.g. `opencv_world480.lib`).
 3. Build and run.
 
-> **Note:** The camera index is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)` if you only have one camera.
+> **Note:** The camera index is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)` if you only have
 
 ## H
 1. Opens the webcam stream via `VideoCapture`.
