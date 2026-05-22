@@ -6,7 +6,7 @@
 > **Note:** The camera index is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)
 ## H
 1. Opens the webcam stream via `V
-2. Loads the Haar Cascade fron
+2. Loads the Haar
 3. On each frame, runs `detectMultiScale` to find faces.
 4. Draws a rectangle around each detected face and overlays the face count.
 
