@@ -4,8 +4,6 @@
 3. Build and run.
 
 > **Note:** Tex is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)
-## H
-1. Opens 
 3. On each frame, runs `detectMultiScale` to find faces.
 4. Draws a rectangle around each detected fa the face count.
 
