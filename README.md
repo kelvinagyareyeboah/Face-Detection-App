@@ -184,7 +184,7 @@ Built with ❤️ using **C++ & OpenCV**
 
 <p align="center">
 
-⭐ Star the repository if you found this project us !
+⭐ Star the repository if you found this project use !
 
 </p>
 
