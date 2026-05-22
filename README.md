@@ -7,7 +7,7 @@
 ## H
 1. Opens 
 3. On each frame, runs `detectMultiScale` to find faces.
-4. Draws a rectangle around each detected face and overlays the face count.
+4. Draws a rectangle around each detected fa the face count.
 
 ## Dependencies
 
