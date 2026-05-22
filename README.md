@@ -1,7 +1,7 @@
 
 1. Add OpenC
 
-> **Note:** Tex is set to `1` by default. Change `VideoCapture video(1)` to `VideoCapture video(0)
+> **Note:** Tex is set to `1` by default. Change `Videoideo(1)` to `VideoCapture video(0)
 3. On each frame, runs `det
 4. Draws a rectangle a
 | Library | Pu
