@@ -1,11 +1,7 @@
 #include<opencv2/imgcodecs.hpp>
 #include<opencv2/highgui.hpp>
 #includeath);
-	imshow("Frame", img);
-	waitKey(0);
-}*/
-
-void main() {
+	imshow("Fram
 	VideoCapture video(1);
 	CascadeClassifier facedetect;
 	Mat img;
