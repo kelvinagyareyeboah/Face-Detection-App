@@ -5,9 +5,7 @@
 #inclu
 
 using namespace std;
-using n
-
-/*void main() {
+usin
 	string path =
 	Mat	img = imread(path);
 	imshow("Frame", img);
