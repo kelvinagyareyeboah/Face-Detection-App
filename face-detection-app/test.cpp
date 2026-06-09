@@ -1,7 +1,6 @@
 #include<opencv2/imgcodecs.hpp>
 #include<opencv2/highgui.hpp>
-#includeath);
-	imshideo(1);
+
 	CascadeClassifier facedetect;
 	Mat img;
 	facedetect.load("haarcascade_frontalface_default.xml");
