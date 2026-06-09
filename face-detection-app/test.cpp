@@ -1,8 +1,7 @@
 #include<opencv2/imgcodecs.hpp>
 #include<opencv2/highgui.hpp>
 #includeath);
-	imshow("Fram
-	VideoCapture video(1);
+	imshideo(1);
 	CascadeClassifier facedetect;
 	Mat img;
 	facedetect.load("haarcascade_frontalface_default.xml");
