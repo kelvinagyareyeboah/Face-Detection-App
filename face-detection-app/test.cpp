@@ -1,5 +1,4 @@
-#include<opencv2/imgcodecs.hpp>
-#include<opencv2/highgu
+#include<o
 
 	CascadeClassifier 
 		video.read(img);
