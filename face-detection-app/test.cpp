@@ -5,7 +5,7 @@
 	
 			rectangle(im[i].tl(), fac
 			rectangle(img, Point(0,0), Poi,70), Scalar(50, 50, 255), FILLED);
-			putText(img, to_string(faces.size())+" Face FoundONT_HERSHEY_DUPLEX, 1,
+			putText(img, to_string(faces.size())+" FaT_HERSHEY_DUPLEX, 1,
 
 
 		
