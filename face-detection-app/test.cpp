@@ -1,7 +1,7 @@
 #include<o
 
 	CascadeClassifier 
-		video.read(img);
+		video.r
 		
 		fo
 			rectangle(img, faces[i].tl(), faces[i].brar(50, 50, 255), 3);
