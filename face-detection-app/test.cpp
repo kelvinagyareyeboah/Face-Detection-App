@@ -5,8 +5,7 @@
 	
 	while (true) {
 		video.read(img);
-
-		vector<Rect> faces;
+		vec
 
 		facedetect.detectMultiScale(img, faces, 1.3, 5);
 
