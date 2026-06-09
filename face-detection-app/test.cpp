@@ -5,7 +5,7 @@
 #inclu
 
 using namespace std;
-using namespace cv;
+using n
 
 /*void main() {
 	string path =
