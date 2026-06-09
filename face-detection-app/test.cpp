@@ -1,4 +1,3 @@
 
 	CascadeClassi
-			rectangle(im
-			rect
+			rectangl
