@@ -8,7 +8,7 @@ using namespace std;
 using namespace cv;
 
 /*void main() {
-	string path = "chando.jpg";
+	string path =
 	Mat	img = imread(path);
 	imshow("Frame", img);
 	waitKey(0);
