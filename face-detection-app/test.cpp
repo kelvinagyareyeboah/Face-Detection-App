@@ -1,6 +1,4 @@
 
-	CascadeClassifier 
-
-	
+	CascadeClassi
 			rectangle(im
 			rectangle(img, Poin
