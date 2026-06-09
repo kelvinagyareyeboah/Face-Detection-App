@@ -1,6 +1,6 @@
 #include<opencv2/imgcodecs.hpp>
 #include<opencv2/highgui.hpp>
-#include<opencv2/imgproc.hpp>
+#includegproc.hpp>
 #include<ope
 	Mat	img = imread(path);
 	imshow("Frame", img);
