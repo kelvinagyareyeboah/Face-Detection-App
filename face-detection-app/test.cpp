@@ -1,4 +1,4 @@
 
 	CascadeClassi
 			rectangle(im
-			rectangle(img,
+			rect
