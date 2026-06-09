@@ -3,8 +3,7 @@
 	CascadeClassifier 
 		video.read(img);
 		vec
-
-		facedetect.detectMultiScale(img, faces, 1.3, 5);
+		facedetectg, faces, 1.3, 5);
 
 		cout << faces.size() << endl;
 
