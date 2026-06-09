@@ -2,8 +2,6 @@
 #include<opencv2/highgui.hpp>
 
 	CascadeClassifier facedetect;
-	Mat img;
-	facedetect.load("haarcascade_frontalface_default.xml");
 	
 	while (true) {
 		video.read(img);
