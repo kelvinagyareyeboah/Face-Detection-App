@@ -3,9 +3,7 @@
 	CascadeClassifier 
 		video.read(img);
 		vec
-		facedetectg, faces, 1.3, 5);
-
-		cou
+		facedetectg
 
 		for (int i = 0; i < faces.size(); i++) {
 			rectangle(img, faces[i].tl(), faces[i].br(), Scalar(50, 50, 255), 3);
