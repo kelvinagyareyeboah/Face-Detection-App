@@ -1,9 +1,7 @@
 #include<opencv2/imgcodecs.hpp>
 #include<opencv2/highgui.hpp>
 
-	CascadeClassifier facedetect;
-	
-	while (true) {
+	CascadeClassifier 
 		video.read(img);
 		vec
 
