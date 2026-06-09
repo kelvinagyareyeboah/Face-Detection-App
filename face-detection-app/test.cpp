@@ -1,10 +1,7 @@
 #include<opencv2/imgcodecs.hpp>
 #include<opencv2/highgui.hpp>
 #include<opencv2/imgproc.hpp>
-#include<opencvhpp>
-#i
-usin
-	string path =
+#include<ope
 	Mat	img = imread(path);
 	imshow("Frame", img);
 	waitKey(0);
