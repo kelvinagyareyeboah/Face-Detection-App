@@ -7,7 +7,7 @@
 			putText(img, to_string(faces.size())
 
 		
-		imshow("Frame", img);
+		imshow("Fram
 		waitKey(1);
 		
 
