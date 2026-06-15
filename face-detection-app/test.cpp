@@ -1,15 +1,4 @@
 
-
-            // Face ID
-            string label =
-                "Face #" + to_string(i + 1);
-
-            putText(
-                frame,
-                label,
-                Point(face.x, face.y - 10),
-                FONT_HERSHEY_SIMPLEX,
-                0.7,
                 Scalar(0, 255, 0),
                 2
             );
