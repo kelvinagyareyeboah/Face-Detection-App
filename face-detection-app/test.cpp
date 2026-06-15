@@ -1,8 +1,6 @@
 me
         video >>
         {
-            cout << "Failed to capture frame!" << en
-        // Convert to Gray
         cvtColor(frame, gray, COLOR_BGR2GRAY);
 
         // Improve Contrast
