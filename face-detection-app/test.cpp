@@ -1,7 +1,7 @@
 me
         video >>
         {
-        cvtColor(frame, gray, COLOR_BGR2GRAY);
+        cvtColor(frame, gray, COLOR
 
         // Improve Contrast
         equalizeHist(gray, gray);
