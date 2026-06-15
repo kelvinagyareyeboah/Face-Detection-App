@@ -1,9 +1,7 @@
 
         cout << "ERROR: 
     video.set(CAP_PROP_FRAME_WIDTH, 1280);
-    video.set(CAP_PRO);
-
-    // Load Haar Cascade
+    video.set(CAP_P
     CascadeClassifier faceDetector;
 
     if (!faceDetector.load("haarcascade_fr
