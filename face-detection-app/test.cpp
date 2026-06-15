@@ -5,8 +5,7 @@
 
     VideoCapture video(0);
 
-    if (!video.isOpened())
-    {
+    if (!vid
         cout << "ERROR: Could not open camera!" << endl;
         return -1;
     }
