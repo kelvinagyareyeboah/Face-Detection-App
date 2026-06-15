@@ -1,7 +1,7 @@
 ncv.hpp
         cout << "ERROR: 
     video.set(CAP_PROP_FRAME_WIDTH, 1280);
-    video.set(CAP_PROP_FRAM);
+    video.set(CAP_PRO);
 
     // Load Haar Cascade
     CascadeClassifier faceDetector;
