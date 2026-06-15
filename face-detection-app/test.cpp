@@ -1,6 +1,4 @@
-
-        cout << "ERROR: 
-    video.set(CAP_PROP_FRAME_WIDTH, 1280);
+_FRAME_WIDTH, 1280);
     video.set(CAP_P
     CascadeClaaceDetector;
 
