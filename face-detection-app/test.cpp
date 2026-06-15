@@ -3,9 +3,6 @@
 #include <vector>
 #include <string>
 
-using name
-{
-    //
     VideoCapture video(0);
 
     if (!video.isOpened())
