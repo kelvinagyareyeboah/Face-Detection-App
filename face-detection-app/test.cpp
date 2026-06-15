@@ -3,7 +3,7 @@
 #include <vector>
 #include <string>
 
-    VideoCapture video(0);
+    VideoCap
 
     if (!vid
         cout << "ERROR: Could not open camera!" << endl;
