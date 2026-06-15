@@ -4,7 +4,7 @@
 #incl
 
     VideoCa
-        cout << "ERROR: Could not open camera!" << endl;
+        cout << "ERROR: Could not open cam
         return -1;
     }
 
