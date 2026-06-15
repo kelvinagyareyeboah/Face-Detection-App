@@ -6,10 +6,7 @@
             Point center(
                 face.x + face.width / 2,
                 face.y + face.height / 2
-            );
-
-            circle(
-                frame,
+           frame,
                 center,
                 4,
                 Scalar(255, 0, 0),
