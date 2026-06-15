@@ -1,9 +1,4 @@
 
-                face,
-        / 2
-           frame,
-                center,
-                4,
                 Scalar(255, 0, 0),
                 FILLED
             );
