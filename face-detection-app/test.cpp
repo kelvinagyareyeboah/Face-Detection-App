@@ -1,7 +1,7 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <vector>
-#include <string>
+#incl
 
     VideoCa
         cout << "ERROR: Could not open camera!" << endl;
