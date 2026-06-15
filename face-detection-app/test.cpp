@@ -4,7 +4,7 @@
     video.set(CAP_P
     CascadeClassifier faceDetector;
 
-    if (!faceDetector.load("haarcascade_fr
+    if (!faceDetector.
         cout << "ERROR: Could no
 
     Mat frame, gray;
