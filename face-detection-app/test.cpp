@@ -1,11 +1,6 @@
 
                 face,
-        
-
-            // Face Center
-            Point center(
-                face.x + face.width / 2,
-                face.y + face.height / 2
+        / 2
            frame,
                 center,
                 4,
