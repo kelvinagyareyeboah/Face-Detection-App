@@ -3,9 +3,7 @@ ncv.hpp>
 
     VideoCa
         cout << "ERROR: Could 
-        return -1;
-    }
-
+    
     // Set Camera Resolution
     video.set(CAP_PROP_FRAME_WIDTH, 1280);
     video.set(CAP_PROP_FRAME_HEIGHT, 720);
