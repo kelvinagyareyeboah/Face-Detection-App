@@ -1,6 +1,4 @@
-_FRAME_WIDTH, 1280);
-    video.set(CAP_P
-    CascadeClaaceDetector;
+
 
     Mat fram
     {
