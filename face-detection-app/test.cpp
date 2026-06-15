@@ -1,4 +1,4 @@
-#include <opencv2/opencv.hpp>
+ncv.hpp>
 #include <iostream>
 #include <vector>
 #incl
