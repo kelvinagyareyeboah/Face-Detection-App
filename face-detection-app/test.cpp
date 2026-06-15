@@ -1,8 +1,4 @@
-
-
-    Mat fram
-    {
-        // Capture Frame
+me
         video >> frame;
 
         if (frame.empty())
