@@ -9,7 +9,7 @@
             rectangle(
                 frame,
                 face,
-                Scalar(0, 255, 0),
+                Scalar(
                 3
             );
 
