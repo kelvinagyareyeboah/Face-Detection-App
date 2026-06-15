@@ -7,7 +7,7 @@ me
         equalizeHist(gray, gray);
 
         // Face Detection
-        vector<Rect> faces;
+        ve
 
         faceDetector.detectMultiScale(
             gray,
