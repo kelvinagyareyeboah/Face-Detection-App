@@ -1,7 +1,5 @@
 
-
-        // Draw Face Boxes
-        for (size_t i = 0; i < fac
+ 0; i < fac
         {
             R
                 face,
