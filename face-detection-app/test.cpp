@@ -1,5 +1,4 @@
 
-        prevTick 
 
         // Draw Face Boxes
         for (size_t i = 0; i < fac
