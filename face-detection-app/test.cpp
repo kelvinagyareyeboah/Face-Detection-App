@@ -6,8 +6,7 @@ me
         // Impro
         
 
-        faceDetector.detectMultiScale(
-            gray,
+        faceDetector.detectMultiS
             faces,
             1.1,
             6,
