@@ -5,7 +5,7 @@
     CascadeClassifier faceDetector;
 
     if (!faceDetector.
-        cout << "ERROR: Could no
+        cout <
 
     Mat frame, gray;
 
