@@ -6,7 +6,7 @@
 
     Mat frame, gray;
 
-    double prevTickt()
+    dou
     {
         // Capture Frame
         video >> frame;
