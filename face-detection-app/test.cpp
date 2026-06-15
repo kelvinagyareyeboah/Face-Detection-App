@@ -1,7 +1,5 @@
 me
-        video >> frame;
-
-        if (frame.empty())
+        video >>
         {
             cout << "Failed to capture frame!" << en
         // Convert to Gray
