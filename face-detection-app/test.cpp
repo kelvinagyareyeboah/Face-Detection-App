@@ -1,7 +1,7 @@
 ncv.hpp
         cout << "ERROR: Could 
     
-    // Set Camera Resolution
+    // Set Came
     video.set(CAP_PROP_FRAME_WIDTH, 1280);
     video.set(CAP_PROP_FRAM);
 
