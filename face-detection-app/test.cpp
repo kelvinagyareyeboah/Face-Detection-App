@@ -5,7 +5,7 @@
     CascadeClassifier faceDetector;
 
     if (!faceDetector.load("haarcascade_fr
-        cout << "ERROR: Could not load Haar Cascade XML f
+        cout << "ERROR: Could no
 
     Mat frame, gray;
 
