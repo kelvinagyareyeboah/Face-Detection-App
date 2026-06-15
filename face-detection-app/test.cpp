@@ -1,7 +1,6 @@
 
 
-        // FPS Calculation
-        double currentTick = getTickCount();
+        //getTickCount();
 
         double fps =
             getTickFrequency() /
