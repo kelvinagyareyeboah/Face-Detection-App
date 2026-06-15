@@ -2,7 +2,7 @@ ncv.hpp>
 #includ
 
     VideoCa
-        cout << "ERROR: Could not open cam
+        cout << "ERROR: Could 
         return -1;
     }
 
