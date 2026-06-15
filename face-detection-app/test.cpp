@@ -5,9 +5,7 @@
     CascadeClassifier faceDetector;
 
     if (!faceDetector.load("haarcascade_fr
-        cout << "ERROR: Could not load Haar Cascade XML file!" << endl;
-        return -1;
-    }
+        cout << "ERROR: Could not load Haar Cascade XML f
 
     Mat frame, gray;
 
