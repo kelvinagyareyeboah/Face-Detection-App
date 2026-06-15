@@ -4,9 +4,7 @@
     video.set(CAP_P
     CascadeClassifier faceDetector;
 
-    Mat frame, gray;
-
-    dou
+    Mat fram
     {
         // Capture Frame
         video >> frame;
