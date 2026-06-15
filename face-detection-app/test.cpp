@@ -5,7 +5,7 @@ me
 
         // Improve Contrast
         equalizeHist(gra
-        // Face Detection
+
         ve
 
         faceDetector.detectMultiScale(
