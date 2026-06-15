@@ -1,7 +1,4 @@
-ncv.hpp>
-#includ
-
-    VideoCa
+ncv.hpp
         cout << "ERROR: Could 
     
     // Set Camera Resolution
