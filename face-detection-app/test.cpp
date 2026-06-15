@@ -5,7 +5,6 @@
         {
             Reci];
 
-            rectangle(
                 frame,
                 face,
         
