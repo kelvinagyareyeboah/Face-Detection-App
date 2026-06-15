@@ -1,7 +1,7 @@
 ncv.hpp>
 #include <iostream>
-#include <vector>
-#incl
+#
+    
 
     VideoCa
         cout << "ERROR: Could not open cam
