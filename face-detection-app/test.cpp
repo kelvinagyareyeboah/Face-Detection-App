@@ -4,8 +4,7 @@ me
         cvtColor(frame, gray, COLOR
 
         // Improve Contrast
-        equalizeHist(gray, gray);
-
+        equalizeHist(gra
         // Face Detection
         ve
 
