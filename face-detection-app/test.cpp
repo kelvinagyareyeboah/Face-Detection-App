@@ -6,7 +6,7 @@
 using namespace cv;
 using na
 {
-    // Open Camera
+    //
     VideoCapture video(0);
 
     if (!video.isOpened())
