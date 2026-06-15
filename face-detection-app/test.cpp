@@ -1,9 +1,6 @@
 me
         video >>
         {
-        cvtColor(frame, gra
-        faceDetector.detectMultiS
-            faces,
             1.1,
             6,
             0,
