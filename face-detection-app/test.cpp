@@ -1,7 +1,4 @@
 
-
-        //getTickCount();
-
         double fps =
             getTickFrequency() /
             (currentTick - prevTick);
