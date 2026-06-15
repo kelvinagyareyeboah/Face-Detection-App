@@ -4,9 +4,7 @@
 #include <string>
 
 using namespace cv;
-using names
-
-int main()
+using na
 {
     // Open Camera
     VideoCapture video(0);
