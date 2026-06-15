@@ -1,11 +1,7 @@
 me
         video >>
         {
-        cvtColor(frame, gray, COLOR
-
-        // Impro
-        
-
+        cvtColor(frame, gra
         faceDetector.detectMultiS
             faces,
             1.1,
