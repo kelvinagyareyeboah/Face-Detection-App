@@ -3,8 +3,7 @@
 #include <vector>
 #include <string>
 
-using namespace cv;
-using na
+using name
 {
     //
     VideoCapture video(0);
