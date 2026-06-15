@@ -4,9 +4,7 @@ me
         cvtColor(frame, gray, COLOR
 
         // Impro
-        equalizeHist(gra
-
-        ve
+        
 
         faceDetector.detectMultiScale(
             gray,
