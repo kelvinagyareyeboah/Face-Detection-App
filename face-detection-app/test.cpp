@@ -4,7 +4,7 @@
     video.set(CAP_P
     CascadeClassifier faceDetector;
 
-    if (!faceDetector.
+    if 
         cout <
 
     Mat frame, gray;
