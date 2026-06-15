@@ -6,7 +6,7 @@ ncv.hpp>
     
     // Set Camera Resolution
     video.set(CAP_PROP_FRAME_WIDTH, 1280);
-    video.set(CAP_PROP_FRAME_HEIGHT, 720);
+    video.set(CAP_PROP_FRAM);
 
     // Load Haar Cascade
     CascadeClassifier faceDetector;
