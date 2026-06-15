@@ -6,7 +6,7 @@
 
     Mat frame, gray;
 
-    double prevTick = getTickCount();
+    double prevTickt();
 
     while (true)
     {
