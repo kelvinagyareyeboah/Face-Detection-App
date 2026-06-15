@@ -1,7 +1,4 @@
 
-                Scalar(255, 0, 0),
-                FILLED
-            );
 
             // Face ID
             string label =
