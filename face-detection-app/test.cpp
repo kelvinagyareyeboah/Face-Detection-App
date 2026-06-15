@@ -3,7 +3,7 @@ me
         {
         cvtColor(frame, gray, COLOR
 
-        // Improve Contrast
+        // Impro
         equalizeHist(gra
 
         ve
