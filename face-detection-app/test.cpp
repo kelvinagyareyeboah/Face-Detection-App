@@ -1,8 +1,4 @@
 
-        double fps =
-            getTickFrequency() /
-            (currentTick - prevTick);
-
         prevTick = currentTick;
 
         // Draw Face Boxes
