@@ -4,7 +4,7 @@
 #include <string>
 
 using namespace cv;
-using namespace std;
+using names
 
 int main()
 {
