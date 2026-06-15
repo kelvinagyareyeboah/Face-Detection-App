@@ -1,8 +1,4 @@
-me
-        video
-            0,
-            Size(50, 50)
-        );
+
 
         // FPS Calculation
         double currentTick = getTickCount();
