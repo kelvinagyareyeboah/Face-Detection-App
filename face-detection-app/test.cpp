@@ -4,9 +4,7 @@
             );
         }
 
-        // Top Information Panel
-        rectangle(
-            frame,
+        // Top Information 
             Point(0, 0),
             Point(450, 110),
             Scalar(30, 30, 30),
