@@ -4,9 +4,6 @@
     video.set(CAP_P
     CascadeClassifier faceDetector;
 
-    if 
-        cout <
-
     Mat frame, gray;
 
     double prevTick = getTickCount();
