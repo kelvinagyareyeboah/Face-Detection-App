@@ -8,9 +8,7 @@
             rectangle(
                 frame,
                 face,
-                Scalar(
-                3
-            );
+        
 
             // Face Center
             Point center(
