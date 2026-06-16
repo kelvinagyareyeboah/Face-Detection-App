@@ -1,7 +1,6 @@
 
 
     cout <<
-    while (true)
     {
         camera.read(frame);
 
