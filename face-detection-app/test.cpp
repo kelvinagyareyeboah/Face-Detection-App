@@ -1,6 +1,4 @@
 
-            Scalar boxColor(0, 255, 0);
-
                 face,
                 boxColor,
                 3
