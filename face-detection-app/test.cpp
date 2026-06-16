@@ -3,7 +3,7 @@
 
             int
             Size textSize =
-                getTextSize(
+      
                     label,
                     FONT_HERSHEY_SIMPLEX,
                     0.6,
