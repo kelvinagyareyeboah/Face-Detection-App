@@ -1,7 +1,6 @@
 
-    Mat frame, gray;
+    Mat frame,
 
-    double fps = 0.0;
     double prevTime = (double)getTickCount();
 
     cout <<
