@@ -4,8 +4,6 @@
         flip(frame, frame, 1);
 
         // ==========================
-        // Preprocessing
-        // ==========================
         cvtColor(frame, gray, COLOR_BGR2GRAY);
 
         GaussianBlur(
