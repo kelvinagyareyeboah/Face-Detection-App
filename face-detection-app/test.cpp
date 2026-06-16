@@ -1,6 +1,3 @@
-Detection
-        // ==
-        vector<Rect> faces;
 
         faceCascade.detectMultiScale(
             gray,
