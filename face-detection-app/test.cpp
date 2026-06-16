@@ -1,7 +1,3 @@
-=============
-    // Load Face Detector
-    // ==========================
-    CascadeClassifier faceCascade;
 
     if (!faceCascade.load("haarcascade_frontalface_default.xml"))
     {
