@@ -1,6 +1,4 @@
-le(=
-        // Draw Faces
-        // ==========================
+=============
         for (size_t i = 0; i < faces.size(); i++)
         {
             Rect face = faces[i];
