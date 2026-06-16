@@ -1,7 +1,5 @@
 
-a
-    // ==========================
-    VideoCapture camera(0);
+
 
     if (!camera.isOpened())
     {
