@@ -1,8 +1,4 @@
 
-
-
-    if (!camera.isOpened())
-    {
         cerr << "ERROR: Camera could not be opened." << endl;
         return -1;
     }
