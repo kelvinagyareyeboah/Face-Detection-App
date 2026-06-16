@@ -1,9 +1,8 @@
 
 
         
-        flip(frame, frame, 1);
-
-        // ==========================
+        fli
+        // ===================
         cvtColor(frame, gray, COLOR_BGR2GRAY);
 
         GaussianBlur(
