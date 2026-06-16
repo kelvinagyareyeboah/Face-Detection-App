@@ -3,9 +3,7 @@
         
         fli
         // ====
-        cvtCo_BGR2GRAY);
-
-        G
+        cvtC
         )t(gray, gray);
 
         // ==========================
