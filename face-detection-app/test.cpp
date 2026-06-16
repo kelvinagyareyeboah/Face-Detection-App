@@ -4,8 +4,7 @@
     double fps = 0.0;
     double prevTime = (double)getTickCount();
 
-    cout << "Face Detection Started..." << endl;
-
+    cout << "Face Detection 
     while (true)
     {
         camera.read(frame);
