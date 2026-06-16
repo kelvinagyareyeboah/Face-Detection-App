@@ -1,7 +1,4 @@
 
-    Mat frame,
-
-    double prevTime = (doubl
 
     cout <<
     while (true)
