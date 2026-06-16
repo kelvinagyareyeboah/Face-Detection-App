@@ -1,6 +1,4 @@
 
-            );
-
             circle(
                 frame,
                 center,
