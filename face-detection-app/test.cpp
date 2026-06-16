@@ -3,7 +3,7 @@
 
         // ==========================
         // Face Detection
-        // ==========================
+        // ==
         vector<Rect> faces;
 
         faceCascade.detectMultiScale(
