@@ -6,9 +6,7 @@
         cvtCo_BGR2GRAY);
 
         G
-        );
-
-        equalizeHist(gray, gray);
+        )t(gray, gray);
 
         // ==========================
         // Face Detection
