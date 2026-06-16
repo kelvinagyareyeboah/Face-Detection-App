@@ -1,9 +1,5 @@
 
-        cerr << "ERROR: Camera could not be opened." << endl;
-        return -1;
-    }
-
-    camera.set(CAP_PROP_FRAME_WIDTH, 1280);
+        cerrIDTH, 1280);
     camera.set(CAP_PROP_FRAME_HEIGHT, 720);
     camera.set(CAP_PROP_FPS, 30);
 
