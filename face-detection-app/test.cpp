@@ -1,9 +1,5 @@
 
-                face,
-                boxColor,
-                3
-            );
-
+                fac
             Point center(
                 face.x + face.width / 2,
                 face.y + face.height / 2
