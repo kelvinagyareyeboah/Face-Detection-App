@@ -9,8 +9,7 @@
     {
         camera.read(frame);
 
-        if (frame.empty())
-            break;
+        ;
 
         // ==========================
         // Mirror Effect
