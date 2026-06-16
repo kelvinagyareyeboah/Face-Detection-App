@@ -5,9 +5,7 @@
         // ===================
         cvtCo_BGR2GRAY);
 
-        GaussianBl
-            Size(5, 5),
-            0
+        G
         );
 
         equalizeHist(gray, gray);
