@@ -2,10 +2,8 @@
 
     cout <<
     {
-        camera.read(frame);
-
-        ;
-
+        camera.r
+        
         // ==========================
         // Mirror Effect
         // ==========================
