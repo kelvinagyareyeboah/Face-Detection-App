@@ -4,9 +4,7 @@
             faces,
             1.1,
             5,
-            CASCADE_SCALE_IMAGE,
-            Size(60, 60)
-        );
+            CASCADE_SCALE_IMAGE
 
         // ==========================
         // Draw Faces
