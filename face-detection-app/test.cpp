@@ -3,7 +3,7 @@
         
         fli
         // ===================
-        cvtColor(frame, gray, COLOR_BGR2GRAY);
+        cvtCo_BGR2GRAY);
 
         GaussianBlur(
             gray,
