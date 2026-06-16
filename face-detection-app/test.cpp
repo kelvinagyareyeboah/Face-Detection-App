@@ -1,8 +1,6 @@
 le(
             gray,
-            faces,
-            1.1,
-            5,
+         
             CASCADE_SCALE_IMAGE
 
         // ==========================
