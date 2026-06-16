@@ -1,6 +1,4 @@
 
-            Rect face = faces[i];
-
             Scalar boxColor(0, 255, 0);
 
             rectangle(
