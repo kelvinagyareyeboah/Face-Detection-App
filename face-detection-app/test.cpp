@@ -3,8 +3,7 @@
             string label =
                 "Face " + to_string(i + 1);
 
-            int baseline = 0;
-
+            int
             Size textSize =
                 getTextSize(
                     label,
