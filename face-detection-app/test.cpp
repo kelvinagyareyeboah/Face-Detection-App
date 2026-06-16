@@ -1,6 +1,4 @@
-
-        cerrID280);
-    camera.set(CAP_PROP_FRAME_HEIGHT, 720);
+AME_HEIGHT, 720);
     camera.set(CAP_PROP_FPS, 30);
 
     // ==========================
