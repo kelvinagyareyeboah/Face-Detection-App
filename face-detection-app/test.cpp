@@ -2,7 +2,7 @@
 #include <opencv2/objde
 #
 #include
-using namespace std;
+using 
 
     // ==========================
     // Open Camera
