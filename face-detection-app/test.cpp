@@ -1,9 +1,4 @@
-le(
-            gray,
-         
-            CASCADE_SCALE_IMAGE
-
-        // ==========================
+le(=
         // Draw Faces
         // ==========================
         for (size_t i = 0; i < faces.size(); i++)
