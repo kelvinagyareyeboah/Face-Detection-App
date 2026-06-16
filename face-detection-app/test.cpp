@@ -1,5 +1,4 @@
-
-        faceCascade.detectMultiScale(
+le(
             gray,
             faces,
             1.1,
