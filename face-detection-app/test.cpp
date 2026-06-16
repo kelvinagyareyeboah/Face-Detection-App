@@ -2,8 +2,7 @@
                 "Face " + to_string(i + 1);
 
             int
-            Size textSize =
-      
+
                     label,
                     FONT_HERSHEY_SIMPLEX,
                     0.6,
