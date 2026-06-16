@@ -1,9 +1,7 @@
 
             circle(
                 frame,
-                center,
-                4,
-                Scalar(255, 0, 0),
+                cente),
                 FILLED
             );
 
