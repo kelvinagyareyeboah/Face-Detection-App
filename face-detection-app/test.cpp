@@ -1,10 +1,5 @@
 
-            circle(
-                frame,
-                cente),
-                FILLED
-            );
-
+            
             string label =
                 "Face " + to_string(i + 1);
 
