@@ -1,6 +1,4 @@
-
-        // ==========================
-        // Face Detection
+Detection
         // ==
         vector<Rect> faces;
 
