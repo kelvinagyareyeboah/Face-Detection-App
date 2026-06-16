@@ -1,5 +1,4 @@
-
-    if (!faceCascade.load("haarcascade_frontalface_default.xml"))
+ad("haarcascade_frontalface_default.xml"))
     {
         cerr << "ERROR: Could not load haarcascade_frontalface_default.xml" << endl;
         return -1;
