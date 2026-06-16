@@ -1,7 +1,4 @@
-AME_HEIGHT, 720);
-    camera.set(CAP_PROP_FPS, 30);
-
-    // ==========================
+=============
     // Load Face Detector
     // ==========================
     CascadeClassifier faceCascade;
