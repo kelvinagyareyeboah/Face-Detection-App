@@ -6,8 +6,6 @@
 using name
 using namespace std;
 
-int main()
-{
     // ==========================
     // Open Camera
     // ==========================
