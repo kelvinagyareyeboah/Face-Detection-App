@@ -1,5 +1,4 @@
-#include <opencv2/o
-using 
+
 
     // ==========================
     // Open Camera
