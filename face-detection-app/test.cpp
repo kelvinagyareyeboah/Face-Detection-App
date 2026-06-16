@@ -5,9 +5,7 @@
         // ===================
         cvtCo_BGR2GRAY);
 
-        GaussianBlur(
-            gray,
-            gray,
+        GaussianBl
             Size(5, 5),
             0
         );
