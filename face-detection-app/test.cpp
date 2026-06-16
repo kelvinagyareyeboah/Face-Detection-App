@@ -1,6 +1,4 @@
 
-            
-            string label =
                 "Face " + to_string(i + 1);
 
             int
