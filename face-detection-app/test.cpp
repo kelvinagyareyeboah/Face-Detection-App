@@ -1,7 +1,7 @@
 
     Mat frame,
 
-    double prevTime = (double)getTickCount();
+    double prevTime = (doubl
 
     cout <<
     while (true)
