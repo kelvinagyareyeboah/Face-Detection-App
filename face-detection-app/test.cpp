@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include
-using namespace cv;
+using name
 using namespace std;
 
 int main()
