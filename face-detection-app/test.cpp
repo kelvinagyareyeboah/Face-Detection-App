@@ -1,4 +1,4 @@
-ad("haarcascade_frontalface_default.xml"))
+efault.xml"))
     {
         cerr << "ERROR: Could not load haarcascade_frontalface_default.xml" << endl;
         return -1;
