@@ -5,7 +5,6 @@
 
                     label,
                     FONT_HERSHEY_SIMPLEX,
-                    0.6,
                     2,
                     &baseline
                 );
