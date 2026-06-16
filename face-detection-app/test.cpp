@@ -1,8 +1,6 @@
 
             Scalar boxColor(0, 255, 0);
 
-            rectangle(
-                frame,
                 face,
                 boxColor,
                 3
