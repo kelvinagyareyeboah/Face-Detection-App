@@ -1,6 +1,4 @@
-Opene
-        c
-PROP_FRAME_PROP_FPS, 60);
+
 
     // ===============================
     // Load Haar Cascade
