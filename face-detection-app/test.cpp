@@ -1,6 +1,5 @@
 
-using namespace cv;
-using namespace std;
+u
 
 // ===============================
 // Draw Stylish Corner Box
