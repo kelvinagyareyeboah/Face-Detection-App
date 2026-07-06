@@ -1,5 +1,4 @@
 
-    c(x, y), Point(x + line, y), color, t);
     cv::line(img, Point(x, y), Point(x, y + line), color, t);
 
     // Top Right
