@@ -1,6 +1,4 @@
 
-{x;
-    int y = box.y;
     int w = box.width;
     int h = box.height;
 
