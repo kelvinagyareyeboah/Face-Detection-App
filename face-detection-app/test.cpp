@@ -1,6 +1,4 @@
 
-    // ===============================
-    CascadeClassifier faceCascade;
 
     string cascadePath =
         samples::findFile(
