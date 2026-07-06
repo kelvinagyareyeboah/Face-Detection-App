@@ -1,6 +1,5 @@
 
-
-    if (!faceCascade.load(cascadePath))
+load(cascadePath))
     {
         cerr << "ERROR: Failed to load Haar Cascade." << endl;
         return -1;
