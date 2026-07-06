@@ -1,6 +1,4 @@
-
-
-    // B+ h), h), color, t);
+;
     cv::line(img, Point(x, y + h), Point(x, y + h - 
     // Bottom Right
     cv::line(img, Point(x + w, y + h), Point(x + w - line, y + h), color, t);
