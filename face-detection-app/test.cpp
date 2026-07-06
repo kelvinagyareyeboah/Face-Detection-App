@@ -1,8 +1,3 @@
-e.empty())
-            break;
-
-        // Mirror
-        flip(frame, frame, 1);
 
         // ===============================
         // Preprocessing
