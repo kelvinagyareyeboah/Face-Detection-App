@@ -1,5 +1,4 @@
 
-    int w = box.width;
     int h = box.height;
 
     int line = 25;
