@@ -1,8 +1,4 @@
-
-    
-        camera.read(frame);
-
-        if (frame.empty())
+e.empty())
             break;
 
         // Mirror
