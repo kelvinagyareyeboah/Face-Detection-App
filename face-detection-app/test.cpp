@@ -1,6 +1,5 @@
 
 
-    string cascadePath =
         samples::findFile(
             "haarcascade_frontalface_default.xml"
         );
