@@ -2,8 +2,6 @@
 #include <opencv2/objdetect.hpp>
 #include <iostream>
 #include <vector>
-#include <string>
-
 using namespace cv;
 using namespace std;
 
