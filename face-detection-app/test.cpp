@@ -1,6 +1,5 @@
 
-    VideoCapture camera(0);
-
+    VideoCapt
     if (!camera.isOpened())
     {
         cerr << "ERROR: Cannot open camera." << endl;
