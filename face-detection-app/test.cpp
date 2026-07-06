@@ -1,6 +1,4 @@
 
-    int h = box.height;
-
     int line = 25;
 
     // Top Left
