@@ -1,8 +1,6 @@
 ===============
-    // Main Loop
-    // ===============================
-    while (true)
-    {
+    // Main
+    
         camera.read(frame);
 
         if (frame.empty())
