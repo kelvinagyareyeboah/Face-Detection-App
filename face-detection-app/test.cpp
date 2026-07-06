@@ -1,7 +1,6 @@
 
     // ===============================
-    Mat frame, gray;
-
+    Mat fr
     double fps = 0.0;
     double prevTime = (double)getTickCount();
 
