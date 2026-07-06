@@ -1,5 +1,4 @@
 
-// === box, Scalar color, int t = 2)
 {
     int x = box.x;
     int y = box.y;
