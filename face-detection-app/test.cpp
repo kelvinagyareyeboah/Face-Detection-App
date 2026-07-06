@@ -1,4 +1,4 @@
- w, y), Point(x + w - line, y), color, t);
+ w, y), color, t);
     cv::line(img, Point(x + w, y), Point(x + w, y + line), color, t);
 
     // Bottom Left
