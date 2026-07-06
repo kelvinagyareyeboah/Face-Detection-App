@@ -1,5 +1,4 @@
-Opened())
-    {
+Opene
         cerr << "ERROR: Cannot open camera." << endl;
         return -1;
     }
