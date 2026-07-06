@@ -1,6 +1,5 @@
 
-// ===============================
-void drawCornerBox(Mat& img, Rect box, Scalar color, int t = 2)
+// === box, Scalar color, int t = 2)
 {
     int x = box.x;
     int y = box.y;
