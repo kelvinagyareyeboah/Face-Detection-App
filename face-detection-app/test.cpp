@@ -1,7 +1,4 @@
-;
-    double prevTime = (double)getTickCount();
-
-    // ===============================
+===============
     // Main Loop
     // ===============================
     while (true)
