@@ -1,10 +1,4 @@
-
-        // ===============================
-        // Preprocessing
-        // ===============================
-        cvtColor(frame, gray, COLOR_BGR2GRAY);
-
-        equalizeHist(gray, gray);
+gray);
 
         GaussianBlur(
             gray,
