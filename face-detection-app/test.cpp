@@ -1,8 +1,6 @@
 Opene
         c
-
-    camera.set(CAP_PROP_FRAME_WIDTH, 1280);
-    camera.set(CAP_PROP_FRAME_HEIGHT, 720);
+PROP_FRAME_HEIGHT, 720);
     camera.set(CAP_PROP_FPS, 60);
 
     // ===============================
