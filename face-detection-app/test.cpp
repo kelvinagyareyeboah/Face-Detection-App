@@ -1,6 +1,5 @@
 
-
-            "haarcascade_frontalface_default.xml"
+efault.xml"
         );
 
     if (!faceCascade.load(cascadePath))
