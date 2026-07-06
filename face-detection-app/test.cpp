@@ -1,7 +1,6 @@
 Opene
         c
-PROP_FRAME_HEIGHT, 720);
-    camera.set(CAP_PROP_FPS, 60);
+PROP_FRAME_PROP_FPS, 60);
 
     // ===============================
     // Load Haar Cascade
