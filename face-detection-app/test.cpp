@@ -1,14 +1,7 @@
 gray);
 
         GaussianBlur(
-            gray,
-            gray,
-            Size(5, 5),
-            0
-        );
-
-        // ===============================
-        // Face Detection
+ection
         // ===============================
         vector<Rect> faces;
 
