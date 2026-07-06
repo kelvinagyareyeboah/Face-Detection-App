@@ -1,8 +1,6 @@
 ;
     double prevTime = (double)getTickCount();
 
-    cout << "AI Face Detection Started..." << endl;
-
     // ===============================
     // Main Loop
     // ===============================
