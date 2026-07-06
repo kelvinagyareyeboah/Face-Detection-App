@@ -1,6 +1,4 @@
 
-
-    // ===============================
     // Load Haar Cascade
     // ===============================
     CascadeClassifier faceCascade;
