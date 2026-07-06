@@ -1,7 +1,5 @@
 Opene
-        cerr << "ERROR: Cannot open camera." << endl;
-        return -1;
-    }
+        c
 
     camera.set(CAP_PROP_FRAME_WIDTH, 1280);
     camera.set(CAP_PROP_FRAME_HEIGHT, 720);
