@@ -1,6 +1,4 @@
 
-efault.xml"
-        );
 
     if (!faceCascade.load(cascadePath))
     {
