@@ -1,8 +1,6 @@
  - 
     
-    cv::line(img, Point(x + w, y + h), Point(x + w - line, y + h), color, t);
-    cv::line(im
-
+    cv::line(img
 int main()
 {
     // ===============================
