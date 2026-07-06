@@ -5,16 +5,6 @@ ection
         // ===============================
         vector<Rect> faces;
 
-        faceCascade.detectMultiScale(
-            gray,
-            faces,
-            1.1,
-            6,
-            0,
-            Size(80, 80)
-        );
-
-        // ===============================
         // HUD Overlay
         // ===============================
         Mat overlay = frame.clone();
