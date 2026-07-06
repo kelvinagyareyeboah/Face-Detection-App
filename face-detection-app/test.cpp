@@ -1,7 +1,4 @@
 
-load(cascad
-        cerr << "ERROR: Failed to load Haar Cascade." << endl;
-        return -1;
     }
 
     // ===============================
