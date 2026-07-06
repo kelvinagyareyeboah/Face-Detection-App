@@ -1,7 +1,4 @@
-
-u
-
-// ===============================
+==
 // Draw Stylish Corner Box
 // ===============================
 void drawCornerBox(Mat& img, Rect box, Scalar color, int t = 2)
