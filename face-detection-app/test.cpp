@@ -1,18 +1,4 @@
-gray);
-
-        GaussianBlur(
-ection
-        // ===============================
-        vector<Rect> faces;
-
-        // HUD Overlay
-        // ===============================
-        Mat overlay = frame.clone();
-
-        rectangle(
-            overlay,
-            Point(0, 0),
-            Point(420, 130),
+(420, 130),
             Scalar(15, 15, 15),
             FILLED
         );
