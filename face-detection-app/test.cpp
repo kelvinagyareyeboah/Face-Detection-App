@@ -1,16 +1,4 @@
 
-            // Center dot with pulse effect
-            Point center(face.x + face.width / 2, face.y + face.height / 2);
-            circle(frame, center, 4, Scalar(0, 0, 255), FILLED);
-            circle(frame, center, 8, Scalar(0, 0, 255), 1);
-            
-            // Face label with background
-            string label = "TARGET " + to_string(i + 1);
-            int baseline = 0;
-            Size textSize = getTextSize(label, FONT_HERSHEY_DUPLEX, 0.7, 2, &baseline);
-            
-            rectangle(frame, 
-                Point(face.x, face.y - textSize.height - 15),
                 Point(face.x + textSize.width + 10, face.y - 5),
                 Scalar(0, 0, 0), FILLED);
             
