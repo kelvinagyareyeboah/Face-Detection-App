@@ -4,7 +4,7 @@
     const vector<Rect>& detect(const Mat& frame) {
         // Preprocess
         cvtColor(frame, gray, COLOR_BGR2GRAY);
-        equalizeHist(gray, gray);
+        equaliray, gray);
         GaussianBlur(gray, processed, Size(Config::GAUSSIAN_KERNEL, Config::GAUSSIAN_KERNEL), 0);
         
         // Detect
