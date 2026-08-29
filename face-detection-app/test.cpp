@@ -1,4 +1,4 @@
-e(i, i), glowColor, 1);
+
         rectangle(img, box - Siz
 
 // ===============================
