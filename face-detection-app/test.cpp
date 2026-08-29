@@ -1,7 +1,5 @@
-w);
-        stringstream ss;
-        ss << put_time(localtime(&time), "%H:%M:%S");
-        putText(frame, ss.str(), Point(frame.cols - 150, frame.rows - 10), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(200, 200, 200), 2);
+
+rows - 10), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(200, 200, 200), 2);
     }
     
     void renderCrosshair(Mat& frame) {
