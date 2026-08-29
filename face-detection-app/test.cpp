@@ -1,6 +1,4 @@
-alpha(alpha) {
-    double update() {
-        auto currentTime = steady_clock::now();
+
         duration<double> elapsed = currentTime - lastTime;
         double currentFPS = 1.0 / elapsed.count();
         fps = fps * (1.0 - alpha) + currentFPS * alpha;
