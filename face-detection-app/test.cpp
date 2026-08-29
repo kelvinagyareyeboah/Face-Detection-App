@@ -1,5 +1,4 @@
-
-        rectangle(img, box + Size(i, i), glowColor, 1);
+e(i, i), glowColor, 1);
         rectangle(img, box - Size(i, i), glowColor, 1);
     }
 }
