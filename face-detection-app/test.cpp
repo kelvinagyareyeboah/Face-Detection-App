@@ -1,7 +1,5 @@
 ===========
-// Configuration Constants
-// ===============================
-struct Config {
+// Configuration
     static constexpr int FRAME_WIDTH = 1280;
     static constexpr int FRAME_HEIGHT = 720;
     static constexpr double DETECTION_SCALE = 1.1;
