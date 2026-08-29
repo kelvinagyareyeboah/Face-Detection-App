@@ -1,8 +1,4 @@
 
-class FaceDetector {
-private:
-    CascadeClassifier cascade;
-    Mat gray, processed;
     vector<Rect> faces;
     
 public:
