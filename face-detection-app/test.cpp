@@ -1,13 +1,4 @@
-
-rows - 10), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(200, 200, 200), 2);
-    }
-    
-    void renderCrosshair(Mat& frame) {
-        int cx = frame.cols / 2;
-        int cy = frame.rows / 2;
-        Scalar color(255, 255, 255);
-        
-        line(frame, Point(cx - 25, cy), Point(cx - 10, cy), color, 1);
+ Point(cx - 10, cy), color, 1);
         line(frame, Point(cx + 10, cy), Point(cx + 25, cy), color, 1);
         line(frame, Point(cx, cy - 25), Point(cx, cy - 10), color, 1);
         line(frame, Point(cx, cy + 10), Point(cx, cy + 25), color, 1);
