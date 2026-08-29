@@ -1,7 +1,4 @@
 
-// =========================
-    
-public:
     FPSCounter(double alpha = 0.1) : fps(0), alpha(alpha) {
         lastTime = steady_clock::now();
     }
