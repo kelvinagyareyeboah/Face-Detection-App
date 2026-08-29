@@ -1,6 +1,4 @@
 
-    double getFPS() con
-// ===============================
 class FaceDetector {
 private:
     CascadeClassifier cascade;
