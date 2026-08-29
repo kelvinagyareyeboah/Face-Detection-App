@@ -1,6 +1,4 @@
 
-}
-
 void drimg, Rect box, Scalar color, int radius = 3) {
     for (int i = 1; i <= radius; i++) {
         Scalar glowColor = color;
