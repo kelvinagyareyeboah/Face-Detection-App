@@ -1,7 +1,4 @@
 alpha(alpha) {
-        lastTime = steady_clock::now();
-    }
-    
     double update() {
         auto currentTime = steady_clock::now();
         duration<double> elapsed = currentTime - lastTime;
