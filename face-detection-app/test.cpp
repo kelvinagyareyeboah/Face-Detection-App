@@ -1,7 +1,4 @@
 
-        return fps;
-    }
-    
     double getFPS() const { return fps; }
 };
 
