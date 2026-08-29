@@ -1,5 +1,4 @@
- 0.1;
-    static constexpr int CORNER_LINE_LENGTH = 25;
+
     static constexpr int CORNER_LINE_THICKNESS = 3;
     static constexpr int CONFIDENCE_MIN = 85;
     static constexpr int CONFIDENCE_MAX = 99;
