@@ -1,4 +1,4 @@
-t(x + w, y + h - length), color, thickness);
+
 }
 
 void drimg, Rect box, Scalar color, int radius = 3) {
