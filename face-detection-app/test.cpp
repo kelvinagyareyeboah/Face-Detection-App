@@ -1,6 +1,4 @@
 
-        rectangle(img, box - Siz
-
 // ===============================
 class FPSCounter {
 private:
