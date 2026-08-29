@@ -1,8 +1,4 @@
 
-// Enhanced Draw Functions
-// ===============================
-void drawCornerBox(Mat& img, Rect box, Scalar color, int thickness = 3, int length = 25) {
-    int x = box.x, y = box.y;
     int w = box.width, h = box.height;
     
     // Top Left
