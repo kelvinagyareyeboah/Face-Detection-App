@@ -1,19 +1,4 @@
-), cy + 30 * sin(rad));
-            line(frame, p1, p2, color, 1);
-        }
-    }
-    
-    void renderFaces(Mat& frame, const vector<Rect>& faces, const vector<int>& confidences) {
-        for (size_t i = 0; i < faces.size(); i++) {
-            Rect face = faces[i];
-            Scalar neon(0, 255, 180);
-            
-            // Glow effect
-            drawGlowEffect(frame, face, neon, 2);
-            
-            // Corner box
-            drawCornerBox(frame, face, neon, Config::CORNER_LINE_THICKNESS, Config::CORNER_LINE_LENGTH);
-            
+
             // Center dot with pulse effect
             Point center(face.x + face.width / 2, face.y + face.height / 2);
             circle(frame, center, 4, Scalar(0, 0, 255), FILLED);
