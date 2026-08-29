@@ -2,8 +2,6 @@
         rectangle(img, box - Siz
 
 // ===============================
-// FPS Counter Class
-// ===============================
 class FPSCounter {
 private:
     steady_clock::time_point lastTime;
