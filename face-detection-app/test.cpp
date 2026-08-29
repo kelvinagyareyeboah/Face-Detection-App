@@ -1,9 +1,4 @@
 
-            processed,
-            faces,
-            Config::DETECTION_SCALE,
-            Config::MIN_NEIGHBORS,
-            0,
             Size(Config::MIN_FACE_SIZE, Config::MIN_FACE_SIZE)
         );
         
