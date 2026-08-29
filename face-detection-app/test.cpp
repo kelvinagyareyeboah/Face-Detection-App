@@ -1,9 +1,4 @@
 
-    vector<Rect> faces;
-    
-public:
-    bool load(const string& cascadePath) {
-        return cascade.load(cascadePath);
     }
     
     const vector<Rect>& detect(const Mat& frame) {
