@@ -1,6 +1,4 @@
-;
-    static constexpr int GAUSSIAN_KERNEL = 5;
-    static constexpr double FPS_ALPHA = 0.1;
+ 0.1;
     static constexpr int CORNER_LINE_LENGTH = 25;
     static constexpr int CORNER_LINE_THICKNESS = 3;
     static constexpr int CONFIDENCE_MIN = 85;
