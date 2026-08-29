@@ -1,8 +1,4 @@
 
-    line(img, Point(x, y), Point(x + length, y), color, thickness);
-    line(img, Point(x, y), Point(x, y + length), color, thickness);
-    
-    // Top Right
     line(img, Point(x + w, y), Point(x + w - length, y), color, thickness);
     line(img, Point(x + w, y), Point(x + w, y + length), color, thickness);
     
