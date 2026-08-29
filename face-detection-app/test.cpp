@@ -1,11 +1,4 @@
-
-private:
-    Mat overlay;
-    
-public:
-    void renderBackground(Mat& frame) {
-        overlay = frame.clone();
-        rectangle(overlay, Point(0, 0), Point(420, 140), Scalar(15, 15, 15), FILLED);
+ Scalar(15, 15, 15), FILLED);
         addWeighted(overlay, 0.4, frame, 0.6, 0, frame);
     }
     
