@@ -1,5 +1,4 @@
-
-    line(img, Point(x + w, y), Point(x + w - length, y), color, thickness);
+, Point(x + w - length, y), color, thickness);
     line(img, Point(x + w, y), Point(x + w, y + length), color, thickness);
     
     // Bottom Left
