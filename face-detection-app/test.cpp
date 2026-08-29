@@ -1,6 +1,4 @@
 
-    int w = box.width, h = box.height;
-    
     // Top Left
     line(img, Point(x, y), Point(x + length, y), color, thickness);
     line(img, Point(x, y), Point(x, y + length), color, thickness);
