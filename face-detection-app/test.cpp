@@ -1,5 +1,4 @@
-ength, y + h), color, thickness);
-    line(img, Point(x + w, y + h), Point(x + w, y + h - length), color, thickness);
+t(x + w, y + h - length), color, thickness);
 }
 
 void drawGlowEffect(Mat& img, Rect box, Scalar color, int radius = 3) {
