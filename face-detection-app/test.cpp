@@ -1,11 +1,4 @@
-
-            Size(Config::MIN_FACE_SIZE, Config::MIN_FACE_SIZE)
-        );
-        
-        return faces;
-    }
-    
-    const vector<Rect>& getFaces() const { return faces; }
+rn faces; }
 };
 
 // ===============================
