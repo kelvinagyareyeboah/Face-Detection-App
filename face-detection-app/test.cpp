@@ -1,9 +1,5 @@
 
-    double getFPS() const { return fps; }
-};
-
-// ===============================
-// Face Detection Class
+    double getFPS() con
 // ===============================
 class FaceDetector {
 private:
