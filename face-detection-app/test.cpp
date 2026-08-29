@@ -1,5 +1,4 @@
-_THICKNESS = 3;
-    static constexpr int CONFIDENCE_MIN = 85;
+
     static constexpr int CONFIDENCE_MAX = 99;
 };
 
