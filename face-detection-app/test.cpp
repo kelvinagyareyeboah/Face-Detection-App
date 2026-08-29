@@ -1,8 +1,4 @@
 
-    static constexpr int CONFIDENCE_MAX = 99;
-};
-
-// ===============================
 // Enhanced Draw Functions
 // ===============================
 void drawCornerBox(Mat& img, Rect box, Scalar color, int thickness = 3, int length = 25) {
