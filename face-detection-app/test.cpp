@@ -1,7 +1,7 @@
 t(x + w, y + h - length), color, thickness);
 }
 
-void drawGlowEffect(Mat& img, Rect box, Scalar color, int radius = 3) {
+void drimg, Rect box, Scalar color, int radius = 3) {
     for (int i = 1; i <= radius; i++) {
         Scalar glowColor = color;
         glowColor[0] = saturate_cast<uchar>(glowColor[0] * (1.0 - i * 0.2));
