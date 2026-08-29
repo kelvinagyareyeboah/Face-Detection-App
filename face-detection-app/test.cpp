@@ -1,5 +1,4 @@
-
-        duration<double> elapsed = currentTime - lastTime;
+ime;
         double currentFPS = 1.0 / elapsed.count();
         fps = fps * (1.0 - alpha) + currentFPS * alpha;
         lastTime = currentTime;
