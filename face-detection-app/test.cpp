@@ -1,9 +1,4 @@
 
-
-// ===============================
-// HUD Renderer Class
-// ===============================
-class HUDRenderer {
 private:
     Mat overlay;
     
