@@ -1,5 +1,4 @@
-
-    static constexpr int FRAME_WIDTH = 1280;
+0;
     static constexpr int FRAME_HEIGHT = 720;
     static constexpr double DETECTION_SCALE = 1.1;
     static constexpr int MIN_NEIGHBORS = 6;
