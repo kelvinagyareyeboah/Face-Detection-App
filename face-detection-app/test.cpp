@@ -1,4 +1,4 @@
-glowColor[1] * (1.0 - i * 0.2));
+
         glowColor[2] = saturate_cast<uchar>(glowColor[2] * (1.0 - i * 0.2));
         
         rectangle(img, box + Size(i, i), glowColor, 1);
