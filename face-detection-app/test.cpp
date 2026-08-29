@@ -1,14 +1,4 @@
- Point(cx - 10, cy), color, 1);
-        line(frame, Point(cx + 10, cy), Point(cx + 25, cy), color, 1);
-        line(frame, Point(cx, cy - 25), Point(cx, cy - 10), color, 1);
-        line(frame, Point(cx, cy + 10), Point(cx, cy + 25), color, 1);
-        circle(frame, Point(cx, cy), 30, color, 1);
-        
-        // Inner circle with dash effect
-        for (int i = 0; i < 360; i += 30) {
-            double rad = i * CV_PI / 180.0;
-            Point p1(cx + 25 * cos(rad), cy + 25 * sin(rad));
-            Point p2(cx + 30 * cos(rad), cy + 30 * sin(rad));
+), cy + 30 * sin(rad));
             line(frame, p1, p2, color, 1);
         }
     }
