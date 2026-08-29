@@ -1,4 +1,4 @@
- + w, y + h), Point(x + w - length, y + h), color, thickness);
+ength, y + h), color, thickness);
     line(img, Point(x + w, y + h), Point(x + w, y + h - length), color, thickness);
 }
 
