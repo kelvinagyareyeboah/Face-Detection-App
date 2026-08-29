@@ -1,8 +1,4 @@
-
-void drimg, Rect box, Scalar color, int radius = 3) {
-    for (int i = 1; i <= radius; 
-        glowColor[0] = saturate_cast<uchar>(glowColor[0] * (1.0 - i * 0.2));
-        glowColor[1] = saturate_cast<uchar>(glowColor[1] * (1.0 - i * 0.2));
+glowColor[1] * (1.0 - i * 0.2));
         glowColor[2] = saturate_cast<uchar>(glowColor[2] * (1.0 - i * 0.2));
         
         rectangle(img, box + Size(i, i), glowColor, 1);
