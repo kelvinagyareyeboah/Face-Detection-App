@@ -1,5 +1,4 @@
 ;
-    static con_SIZE = 80;
     static constexpr int GAUSSIAN_KERNEL = 5;
     static constexpr double FPS_ALPHA = 0.1;
     static constexpr int CORNER_LINE_LENGTH = 25;
