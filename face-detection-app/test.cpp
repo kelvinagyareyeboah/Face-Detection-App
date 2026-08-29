@@ -1,7 +1,5 @@
 
-// ===============================
-    double fps;
-    double alpha;
+// =========================
     
 public:
     FPSCounter(double alpha = 0.1) : fps(0), alpha(alpha) {
