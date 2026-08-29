@@ -1,9 +1,4 @@
-tus = "SYSTEM STATUS : ACTIVE";
-        putText(frame, status, Point(20, frame.rows - 10), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(0, 255, 0), 2);
-        
-        // Current time
-        auto now = system_clock::now();
-        auto time = system_clock::to_time_t(now);
+w);
         stringstream ss;
         ss << put_time(localtime(&time), "%H:%M:%S");
         putText(frame, ss.str(), Point(frame.cols - 150, frame.rows - 10), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(200, 200, 200), 2);
