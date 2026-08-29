@@ -1,11 +1,4 @@
- Scalar(15, 15, 15), FILLED);
-        addWeighted(overlay, 0.4, frame, 0.6, 0, frame);
-    }
-    
-    void renderStatusBar(Mat& frame) {
-        rectangle(frame, Point(0, frame.rows - 35), Point(frame.cols, frame.rows), Scalar(20, 20, 20), FILLED);
-        
-        string status = "SYSTEM STATUS : ACTIVE";
+tus = "SYSTEM STATUS : ACTIVE";
         putText(frame, status, Point(20, frame.rows - 10), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(0, 255, 0), 2);
         
         // Current time
