@@ -1,8 +1,5 @@
 
 // ===============================
-class FPSCounter {
-private:
-    steady_clock::time_point lastTime;
     double fps;
     double alpha;
     
