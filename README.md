@@ -3,8 +3,7 @@ https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&l
 <img src="https://img.shields.io/badge/Computer%20Vision-AI-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/License-MIT-blue
 <img src="https://img.shield
-A real-time **Face Detection Application** built with **C++** and **OpenCV** using the powerful **Haar Cascade Classifier**.
-
+A real-time **Face Detection Application** built with **C++** and **OpenCV** using the powerful **Haar
 The application captures live webcam video, detects human faces in real time, draws bounding boxes around detected faces, and displays the total number of faces currently 
 # ✨ Features
 
