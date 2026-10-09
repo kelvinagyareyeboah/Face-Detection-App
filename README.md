@@ -4,7 +4,7 @@ The application captures live webcam video, detects human faces in real time, dr
 ✅ Haar Cascade f
 ✅ Live face count display
 ✅ Fast and lightweight performance
-✅ Bounding box vi✅ Beginner-friendly OpenCV project
+✅ Bounding box vi✅ Beginner-fri
 
 ---
 
