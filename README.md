@@ -3,9 +3,7 @@ The application captures live webcam video, detects human faces in real time, dr
 # ✨ Features
 ✅ Haar Cascade f
 ✅ Live face count display
-✅ Fast and lightweight performance
-✅ Bounding box vi✅ Beginner-fri
-
+✅ Fast and lightweight p
 ---
 
 # 📸 Demo
