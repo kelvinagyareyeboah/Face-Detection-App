@@ -1,4 +1,4 @@
-Vision-AI-success?style=for-the-badge"/>
+tyle=for-the-badge"/>
 <img src="https://img.shields.io/badge/License-MIT-blue
 <img src="https://img.shield
 A real-time **Face Detection Application** built with **C++** and **OpenCV** using the powerful **Haar
