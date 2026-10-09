@@ -1,4 +1,4 @@
-# 👁️ Face Detection App
+n App
 
 <p al
 
