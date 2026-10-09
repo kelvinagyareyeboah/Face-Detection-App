@@ -3,7 +3,7 @@ The application captures live webcam video, detects human faces in real time, dr
 # ✨ Features
 
 ✅ Real-time w
-✅ Haar Cascade frontal face recognition
+✅ Haar Cascade f
 ✅ Live face count display
 ✅ Fast and lightweight performance
 ✅ Bounding box vi✅ Beginner-friendly OpenCV project
