@@ -1,4 +1,4 @@
-adge/License-MIT-blue
+
 <img src="https://img.shield
 A real-time **Face Detection Application** built with **C++** and **OpenCV** using the powerful **Haar
 The application captures live webcam video, detects human faces in real time, draws bounding boxes around detected faces, and displays the total number of faces currently 
