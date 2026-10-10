@@ -5,7 +5,7 @@ face_default.x
 
 # ⚙️ Requirements
 
-Before running the
+
 
 * OpenCV 4.x installed
 * A C++ compiler:
