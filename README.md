@@ -2,9 +2,7 @@ gure OpenCV include paths
 2. Configure OpenCV 
 # ⚠️ Camera Configuration
 
-The default webcam index is:
-
-```cpp id="b39os5"
+The default we
 VideoCapture video(1);
 ```
 
