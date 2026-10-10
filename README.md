@@ -1,9 +1,6 @@
 
 ``
 
-
-
-* OpenCV 4.
   * MSVC (Visual Studio)
 * A working webcam
 
