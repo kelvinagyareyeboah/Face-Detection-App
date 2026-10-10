@@ -2,9 +2,7 @@
 1️⃣ Opens webcam stream usin
 2️⃣ Loads the Haar Cascade XML model
 3️⃣ Converts frames for processing
-4️⃣ 6️⃣ Displays face c
-| ------------------- | ----------------------- |
-| `opencv2/highgui`   | Display windows         |
+4️⃣ 6️⃣ Di| `opencv2/highgui`   | Display windows         |
 | `opencv2/imgproc`   | Image processing        |
 | `opencv2/objdetect` | Face detection          |
 | `opencv2/imgcodecs` | Image encoding/decoding |
