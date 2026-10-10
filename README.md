@@ -2,9 +2,7 @@ igure OpenCV
 # ⚠️ Camera Configuration
 
 The default we
-VideoCapture video(1);
-```
-
+V
 If you only have one webcam, change it to:
 
 ```cpp id="w1cfxk"
