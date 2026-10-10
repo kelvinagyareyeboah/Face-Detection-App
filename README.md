@@ -4,10 +4,7 @@ face_default.x
 
 
 * OpenCV 4.x installed
-* 
-
-  * GCC
-  * Clang
+  
   * MSVC (Visual Studio)
 * A working webcam
 
