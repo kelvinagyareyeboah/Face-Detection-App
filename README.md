@@ -2,9 +2,7 @@
 1️⃣ Opens webcam stream usin
 2️⃣ Loads the Haar Cascade XML model
 3️⃣ Converts frames for processing
-4️⃣ Detects fa
-5️⃣ Draws rectangles around detected faces
-6️⃣ Displays face count in real time
+4️⃣ 6️⃣ Displays face count in real time
 
 # 📦 |
 | ------------------- | ----------------------- |
