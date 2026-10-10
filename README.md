@@ -1,4 +1,4 @@
-gura
+
 V
 If you only have one webcam, change it to:
 
