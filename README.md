@@ -1,5 +1,4 @@
-L model
-3️⃣ Converts frames for processing
+L ming
 4️⃣ 6️⃣ Di| `opencv2/highgui`
 | `opencv2/imgproc`   | Image processing        |
 | `opencv2/objdetect` | Face detection          |
