@@ -1,12 +1,8 @@
  bounding boxes around detected faces, and displays the total number of faces currently 
 # ✨ Featur
-✅ Live face count display
----
+✅ Live face count d
 
-# 📸 Demo
-
-The application:
-
+The applicat
 * Opens your webcam stream
 * Detects faces frame-by-frame
 * Draws rectangles around detected faces
