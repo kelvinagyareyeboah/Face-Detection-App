@@ -1,9 +1,5 @@
 face_default.x
-```
-
----
-
-# ⚙️ Requirements
+``
 
 
 
