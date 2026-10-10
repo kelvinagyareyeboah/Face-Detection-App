@@ -1,5 +1,4 @@
 
-1️⃣ Opens webcam stream usin
 2️⃣ Loads the Haar Cascade XML model
 3️⃣ Converts frames for processing
 4️⃣ 6️⃣ Di| `opencv2/highgui`
