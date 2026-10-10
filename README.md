@@ -1,9 +1,7 @@
 
 ```
 
----
 
-# 🔍 How It Works
 
 1️⃣ Opens webcam stream using `VideoCapture`
 2️⃣ Loads the Haar Cascade XML model
