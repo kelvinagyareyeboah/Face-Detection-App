@@ -1,7 +1,6 @@
 s
 
-# ✨ Featur
-✅ Live face 
+# ✨ Feat
 * Opens your webcam stream
 * Detects faces frame-by-frame
 * Draws rectangles around detected faces
