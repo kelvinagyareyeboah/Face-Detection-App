@@ -1,11 +1,5 @@
 gure OpenCV include paths
-2. Configure OpenCV librar
-```
-
-4. Build and run the project
-
----
-
+2. Configure OpenCV 
 # ⚠️ Camera Configuration
 
 The default webcam index is:
