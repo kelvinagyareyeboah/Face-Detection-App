@@ -1,4 +1,4 @@
-am video, detects human faces in real time, draws bounding boxes around detected faces, and displays the total number of faces currently 
+real time, draws bounding boxes around detected faces, and displays the total number of faces currently 
 # ✨ Featur
 ✅ Live face count display
 ✅ Fast and lightweight p
