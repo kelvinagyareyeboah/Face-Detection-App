@@ -1,4 +1,4 @@
-round detected faces, and displays the total number of faces currently 
+ displays the total number of faces currently 
 # ✨ Featur
 ✅ Live face count d
 
