@@ -1,6 +1,4 @@
-
-* Opens your webcam stream
-* Detects faces frame-by-frame
+ame
 * Draws rectangles around detected faces
 * Displays the total face co| Purpose                   |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- |
