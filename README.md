@@ -1,9 +1,7 @@
 s
 
 # ✨ Featur
-✅ Live face count d
-
-The applicat
+✅ Live face 
 * Opens your webcam stream
 * Detects faces frame-by-frame
 * Draws rectangles around detected faces
