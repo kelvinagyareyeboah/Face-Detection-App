@@ -3,7 +3,7 @@
 
 
 
-1️⃣ Opens webcam stream using `VideoCapture`
+1️⃣ Opens webcam stream usin
 2️⃣ Loads the Haar Cascade XML model
 3️⃣ Converts frames for processing
 4️⃣ Detects faces using `detectMultiScale()`
