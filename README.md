@@ -1,4 +1,4 @@
-real time, draws bounding boxes around detected faces, and displays the total number of faces currently 
+ bounding boxes around detected faces, and displays the total number of faces currently 
 # ✨ Featur
 ✅ Live face count display
 ✅ Fast and lightweight p
