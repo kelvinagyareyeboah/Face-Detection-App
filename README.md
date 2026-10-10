@@ -4,9 +4,7 @@ s
 * Opens your webcam stream
 * Detects faces frame-by-frame
 * Draws rectangles around detected faces
-* Displays the total face count in rea
-
-| Technology                                                                                             | Purpose                   |
+* Displays the total face co| Purpose                   |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) | Core programming language |
 | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3Eat-square\&logo=opencv\&log)  | Computer vision library   |
