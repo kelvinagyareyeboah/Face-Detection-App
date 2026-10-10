@@ -6,7 +6,7 @@ t.cpp -o faconfig --cflags --li
 1. Configure OpenCV include paths
 2. Configure OpenCV library paths
 3. Link OpenCV libraries:
-opencv_world480.lib
+opencv_
 ```
 
 4. Build and run the project
