@@ -1,7 +1,5 @@
 ame
-* Draws rectangles aro%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) | Core programming language |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3Eat-square\&logo=opencv\&log)  | Computer vision library   |
-| Haar Cascade                                                                                           | Face detection algorithm  |
+* Dra                                                                                           | Face detection algorithm  |
 | Webcam                                                                                                 | L
 # 📂 Project Structure
 
