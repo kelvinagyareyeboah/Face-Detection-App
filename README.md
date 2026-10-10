@@ -1,4 +1,4 @@
-gure OpenCV include paths
+ths
 2. Configure OpenCV 
 # ⚠️ Camera Configuration
 
