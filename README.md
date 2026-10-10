@@ -1,6 +1,5 @@
 ame
-* Draws rectangles around| ------------------------------------------------------------------------------------------------------ | ------------------------- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) | Core programming language |
+* Draws rectangles around| ------------------------------------------------------------------------------------------------------ | ----------------shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white) | Core programming language |
 | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3Eat-square\&logo=opencv\&log)  | Computer vision library   |
 | Haar Cascade                                                                                           | Face detection algorithm  |
 | Webcam                                                                                                 | L
