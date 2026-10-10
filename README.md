@@ -5,7 +5,6 @@ The default we
 V
 If you only have one webcam, change it to:
 
-```cpp id="w1cfxk"
 VideoCapture video(0);
 ```
 
