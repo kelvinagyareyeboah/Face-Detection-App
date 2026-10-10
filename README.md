@@ -3,8 +3,7 @@ face_default.x
 
 
 
-* OpenCV 4.x installed
-  
+* OpenCV 4.
   * MSVC (Visual Studio)
 * A working webcam
 
