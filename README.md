@@ -1,4 +1,4 @@
- displays the total number of faces currently 
+l number of faces currently 
 # ✨ Featur
 ✅ Live face count d
 
