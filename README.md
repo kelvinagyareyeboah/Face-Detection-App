@@ -1,5 +1,4 @@
-
-## 🔹 Using Visual
+Visual
 
 1. Configure OpenCV include paths
 2. Configure OpenCV library paths
