@@ -1,6 +1,4 @@
-                                                                          | Face detection algorithm  |
-| Webcam           
-```bash id="ozth3e"
+
 face-detection-app/
 │
 ├── test.cpp
