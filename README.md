@@ -7,8 +7,6 @@ g++ test.cpp -o faconfig --cflags --li
 1. Configure OpenCV include paths
 2. Configure OpenCV library paths
 3. Link OpenCV libraries:
-
-```bash id="5fjnij"
 opencv_world480.lib
 ```
 
