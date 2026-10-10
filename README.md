@@ -1,4 +1,4 @@
-t.cpp -o faconfig --cflags --li
+ --cflags --li
 ---
 
 ## 🔹 Using Visual
