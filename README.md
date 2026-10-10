@@ -1,6 +1,4 @@
-s
 
-# ✨ Feat
 * Opens your webcam stream
 * Detects faces frame-by-frame
 * Draws rectangles around detected faces
