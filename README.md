@@ -1,4 +1,5 @@
-l number of faces currently 
+s
+
 # ✨ Featur
 ✅ Live face count d
 
