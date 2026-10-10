@@ -6,11 +6,7 @@
 5️⃣ Draws rectangles around detected faces
 6️⃣ Displays face count in real time
 
----
-
-# 📦 OpenCV Modules Used
-
-| Module              | Purpose                 |
+# 📦 |
 | ------------------- | ----------------------- |
 | `opencv2/highgui`   | Display windows         |
 | `opencv2/imgproc`   | Image processing        |
