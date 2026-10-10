@@ -1,5 +1,4 @@
-
-| `opencv2/imgproc`   | Image processing        |
+        |
 | `opencv2/objdetect` | Face detection          |
 | `opencv2/imgcodecs` | Image encoding/decoding |
 
