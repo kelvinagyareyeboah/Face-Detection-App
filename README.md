@@ -1,6 +1,4 @@
-Visual
-
-1. Configure OpenCV include paths
+gure OpenCV include paths
 2. Configure OpenCV library paths
 3. Link OpenCV libraries:
 opencv_
