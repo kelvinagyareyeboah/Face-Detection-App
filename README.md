@@ -1,8 +1,6 @@
 
 ``
 
-  * MSVC (Visual Studio)
-  
 
 ## 🔹
 
