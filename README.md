@@ -1,7 +1,4 @@
 
-face-detection-app/
-│
-├── test.cpp
 ├── haarcascade_frontalface_default.xml
 └── README.md
 ```
