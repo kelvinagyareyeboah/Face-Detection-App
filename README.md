@@ -1,5 +1,4 @@
 
-V
 If you only have one webcam, change it to:
 
 VideoCapture video(0);
