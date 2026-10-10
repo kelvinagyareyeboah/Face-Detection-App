@@ -1,5 +1,4 @@
 
-VideoCapture video(0);
 ```
 
 ---
