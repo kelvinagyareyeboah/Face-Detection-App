@@ -1,7 +1,5 @@
 gure OpenCV include paths
-2. Configure OpenCV library paths
-3. L
-opencv_
+2. Configure OpenCV librar
 ```
 
 4. Build and run the project
