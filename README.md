@@ -1,10 +1,5 @@
 
-``
-
-
-## 🔹
-
-```bash id="qoqrlx"
+="qoqrlx"
 g++ test.cpp -o faconfig --cflags --libs opencv4`
 ./fa
 
