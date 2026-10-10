@@ -1,6 +1,6 @@
 gure OpenCV include paths
 2. Configure OpenCV library paths
-3. Link OpenCV libraries:
+3. L
 opencv_
 ```
 
