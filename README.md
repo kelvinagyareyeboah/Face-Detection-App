@@ -2,9 +2,7 @@
 ``
 
   * MSVC (Visual Studio)
-* A working webcam
-
----
+* A wo
 
 # 🚀 Build & Run
 
