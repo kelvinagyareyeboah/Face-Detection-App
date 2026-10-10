@@ -5,11 +5,7 @@ s
 * Opens your webcam stream
 * Detects faces frame-by-frame
 * Draws rectangles around detected faces
-* Displays the total face count in real time
-
----
-
-# 🛠️ Tech Stack
+* Displays the total face count in rea
 
 | Technology                                                                                             | Purpose                   |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- |
