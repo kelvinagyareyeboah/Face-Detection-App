@@ -4,7 +4,7 @@ face_default.x
 
 
 * OpenCV 4.x installed
-* A C++ compiler:
+* 
 
   * GCC
   * Clang
