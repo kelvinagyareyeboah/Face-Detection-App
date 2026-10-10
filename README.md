@@ -1,5 +1,4 @@
-
-2️⃣ Loads the Haar Cascade XML model
+L model
 3️⃣ Converts frames for processing
 4️⃣ 6️⃣ Di| `opencv2/highgui`
 | `opencv2/imgproc`   | Image processing        |
