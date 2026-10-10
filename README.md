@@ -1,5 +1,4 @@
-
-g++ test.cpp -o faconfig --cflags --li
+t.cpp -o faconfig --cflags --li
 ---
 
 ## 🔹 Using Visual
