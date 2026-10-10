@@ -1,5 +1,4 @@
-
-# ⚠️ Camera Configuration
+guration
 
 The default we
 V
