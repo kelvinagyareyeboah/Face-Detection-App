@@ -1,4 +1,3 @@
- change it to:
 
 VideoCapture video(0);
 ```
