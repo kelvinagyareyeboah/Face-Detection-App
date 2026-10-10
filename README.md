@@ -1,7 +1,5 @@
                                                                           | Face detection algorithm  |
-| Webcam                                                                                                 | L
-# 📂 Project Structure
-
+| Webcam           
 ```bash id="ozth3e"
 face-detection-app/
 │
