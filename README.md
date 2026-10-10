@@ -1,4 +1,4 @@
-igure OpenCV 
+
 # ⚠️ Camera Configuration
 
 The default we
