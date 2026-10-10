@@ -1,5 +1,4 @@
-ame
-* Dra                                                                                           | Face detection algorithm  |
+                                                                          | Face detection algorithm  |
 | Webcam                                                                                                 | L
 # 📂 Project Structure
 
