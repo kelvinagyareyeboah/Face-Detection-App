@@ -1,4 +1,4 @@
-g the powerful **Haar
+
 The application captures live webcam video, detects human faces in real time, draws bounding boxes around detected faces, and displays the total number of faces currently 
 # ✨ Featur
 ✅ Live face count display
