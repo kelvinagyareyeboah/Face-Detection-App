@@ -6,7 +6,7 @@ face_default.xml
 
 # ⚙️ Requirements
 
-Before running the project, ensure you have:
+Before running the
 
 * OpenCV 4.x installed
 * A C++ compiler:
