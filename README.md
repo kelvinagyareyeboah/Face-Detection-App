@@ -1,5 +1,4 @@
-
-├── haarcascade_frontalface_default.xml
+face_default.xml
 └── README.md
 ```
 
