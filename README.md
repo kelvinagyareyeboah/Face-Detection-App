@@ -1,7 +1,5 @@
 
-g++ test.cpp -o faconfig --cflags --libs opencv4`
-./fa
-
+g++ test.cpp -o faconfig --cflags --li
 ---
 
 ## 🔹 Using Visual
