@@ -5,9 +5,7 @@ g++ test.cpp -o faconfig --cflags --libs opencv4`
 
 ---
 
-## 🔹 Using Visual Studio (MSVC)
-
-### Steps:
+## 🔹 Using Visual
 
 1. Configure OpenCV include paths
 2. Configure OpenCV library paths
