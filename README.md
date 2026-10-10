@@ -1,6 +1,4 @@
-guration
-
-The default we
+gura
 V
 If you only have one webcam, change it to:
 
