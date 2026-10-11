@@ -6,9 +6,7 @@
 
 # 🎯 Future Improvements
 
-* 😎 Eye & smile detection
-* 🧠 Deep learning-based face recognition
-* 📸 Face snapshot capture
+* 😎 Eye & smile d* 📸 Face snapshot capture
 * 🎥 Video record
 * 📊 Detection analytics dashboard
 * ⚡ GPU acceleratio
