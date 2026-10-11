@@ -10,10 +10,7 @@
 * 📊 Detection analytics dashboa
 
 ```bash id="1olcvf"
-1. Fork the 
-3. Comm
-
-5. Open ---
+1.
 
 # 📄 License
 
