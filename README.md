@@ -7,4 +7,4 @@
 # 🎯 Future Improvem
 * 😎 Eye
 This project is li
-⭐ Star the
+⭐ Star t
