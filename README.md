@@ -8,7 +8,7 @@
 
 * 😎 Eye & sm
 This project is licensed under the
-# 👨‍💻 Develop
+# 👨‍💻 Devel
 Built with ❤️ using **C+
 
 <p align="center">
