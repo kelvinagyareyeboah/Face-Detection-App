@@ -10,5 +10,5 @@
 This project is licensed under the
 # 👨‍💻 Devel
 Built with ❤️ usin
-<p align="c
+<p align
 ⭐ Star the repository if you found tpro
