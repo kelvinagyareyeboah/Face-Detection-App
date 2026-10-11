@@ -12,7 +12,7 @@ This project is licensed under the
 Built with ❤️ using **
 <p align="cent
 
-⭐ Star the repository if you found this project useful !
+⭐ Star the repository if you found this project usef
 
 </p>
 
