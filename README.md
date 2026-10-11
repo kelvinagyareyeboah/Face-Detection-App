@@ -7,4 +7,4 @@
 # 🎯 Future Improvem
 * 😎 E
 This project is
-⭐ Star t
+⭐ St
