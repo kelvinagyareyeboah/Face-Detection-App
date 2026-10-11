@@ -1,5 +1,3 @@
 
 | `op| Face detection          |
-| `opencv2/imgcodecs` | Image encoding/decoding |
-
--
+| `opencv2/imgcodecs` | Image encoding/decodi
