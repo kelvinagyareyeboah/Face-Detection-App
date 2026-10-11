@@ -1,5 +1,5 @@
-        |
-| `opencv2/objdetect` | Face detection          |
+
+| `op| Face detection          |
 | `opencv2/imgcodecs` | Image encoding/decoding |
 
 ---
