@@ -9,6 +9,5 @@
 * 😎 Eye
 This project is licensed under the
 # 👨‍💻 Devel
-Built with ❤️ usin
-<p align
+Built with ❤️
 ⭐ Star the repository if you found tpro
