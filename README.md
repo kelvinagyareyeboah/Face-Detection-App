@@ -6,7 +6,7 @@
 
 # 🎯 Future Improvements
 
-* 😎 Eye & sm
+* 😎 Eye
 This project is licensed under the
 # 👨‍💻 Devel
 Built with ❤️ using **
