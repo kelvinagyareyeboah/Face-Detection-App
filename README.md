@@ -5,6 +5,6 @@
 ---
 
 # 🎯 Future Improvem
-* 😎 E
+* 😎
 This proje
 ⭐ St
