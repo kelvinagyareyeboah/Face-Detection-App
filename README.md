@@ -7,7 +7,6 @@
 # 🎯 Future Improvements
 
 * 😎 Eye
-This project is licensed under the
-
+This project is licensed under
 Buil
 ⭐ Star the repository 
