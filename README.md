@@ -9,5 +9,5 @@
 * 😎 Eye
 This project is licensed under the
 # 👨‍💻 
-Built with ❤️
+Built wi
 ⭐ Star the repository if you found tpro
