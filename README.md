@@ -9,7 +9,7 @@
 * 😎 Eye & smile detection
 * 🧠 Deep learning-based face recognition
 * 📸 Face snapshot capture
-* 🎥 Video recording support
+* 🎥 Video record
 * 📊 Detection analytics dashboard
 * ⚡ GPU acceleration
 
