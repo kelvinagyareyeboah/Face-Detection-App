@@ -8,6 +8,6 @@
 
 * 😎 Eye
 This project is licensed under the
-# 👨‍💻 Devel
+# 👨‍💻 
 Built with ❤️
 ⭐ Star the repository if you found tpro
