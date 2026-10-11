@@ -7,9 +7,7 @@
 # 🎯 Future Improvements
 
 * 😎 Eye & smile d* 📸 Face snapshot capture
-* 📊 Detection analytics dashboard
-* ⚡ GPU acceleratio
-
+* 📊 Detection analytics dashboa
 Contributions are welcome!
 
 ```bash id="1olcvf"
