@@ -3,6 +3,6 @@
 | `opencv2/imgcodecs` | Image encoding/decoding |
 
 -
-# 🎯 Future Imp
+# 🎯 Futur
 T
 ⭐ 
