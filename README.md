@@ -13,7 +13,7 @@ Contributions are welcome!
 ```bash id="1olcvf"
 1. Fork the repository
 2. Create a feature branch
-3. Commit your changes
+3. Comm
 4. Push to your branch
 5. Open ---
 
