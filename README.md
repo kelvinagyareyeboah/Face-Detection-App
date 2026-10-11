@@ -7,9 +7,7 @@
 # 🎯 Future Improvements
 
 * 😎 Eye & smile d* 📸 Face snapshot capture
-* 📊 Detection analytics dashboa
-
-```bash id="1olcvf"
+* 📊 Detection analytics 
 1.
 
 # 📄 License
