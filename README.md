@@ -11,11 +11,7 @@
 * 📸 Face snapshot capture
 * 🎥 Video record
 * 📊 Detection analytics dashboard
-* ⚡ GPU acceleration
-
----
-
-# 🤝 Contributing
+* ⚡ GPU acceleratio
 
 Contributions are welcome!
 
