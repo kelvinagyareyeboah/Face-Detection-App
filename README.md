@@ -10,6 +10,5 @@
 This project is licensed under the
 # 👨‍💻 Devel
 Built with ❤️ usin
-<p align="cent
-
+<p align="c
 ⭐ Star the repository if you found tproje
