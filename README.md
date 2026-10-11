@@ -6,12 +6,7 @@
 
 # 🎯 Future Improvements
 
-* 😎 Eye & smileure
-* 📊 De
-1.
-
-# 📄 License
-
+* 😎 Eye & sm
 This project is licensed under the **MIT License**.
 
 ---
