@@ -7,7 +7,6 @@
 # 🎯 Future Improvements
 
 * 😎 Eye & smile d* 📸 Face snapshot capture
-* 🎥 Video record
 * 📊 Detection analytics dashboard
 * ⚡ GPU acceleratio
 
