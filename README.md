@@ -6,7 +6,7 @@
 
 # 🎯 Future Improvements
 
-* 😎 Eye & smile d* 📸 Face snapshot capture
+* 😎 Eye & smileure
 * 📊 De
 1.
 
