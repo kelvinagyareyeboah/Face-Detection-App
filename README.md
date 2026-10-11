@@ -9,8 +9,7 @@
 * 😎 Eye & sm
 This project is licensed under the
 # 👨‍💻 Devel
-Built with ❤️ using **C+
-
+Built with ❤️ using **
 <p align="center">
 
 ⭐ Star the repository if you found this project useful !
