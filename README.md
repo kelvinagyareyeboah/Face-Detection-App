@@ -1,3 +1,3 @@
 
 | `op| Face dete
-| `opencv2/imgcodecs` | Image encoding/dec
+| `opencv2/imgcodecs` | Image encoding/d
