@@ -8,4 +8,4 @@
 * 😎 Eye
 This project is licen
 Buil
-⭐ Star the reposi
+⭐ Star the rep
