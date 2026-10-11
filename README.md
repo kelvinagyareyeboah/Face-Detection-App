@@ -12,7 +12,7 @@
 ```bash id="1olcvf"
 1. Fork the 
 3. Comm
-4. Push to your branch
+
 5. Open ---
 
 # 📄 License
