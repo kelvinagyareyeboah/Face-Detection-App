@@ -3,7 +3,6 @@
 | `opencv2/imgcodecs` | Image encoding/decoding |
 
 -
-# 🎯 Future Improv
-* 😎
+# 🎯 Future Imp
 This 
 ⭐ 
