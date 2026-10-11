@@ -10,7 +10,7 @@
 This project is licensed under the
 # 👨‍💻 Devel
 Built with ❤️ using **
-<p align="center">
+<p align="center
 
 ⭐ Star the repository if you found this project useful !
 
