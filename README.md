@@ -10,9 +10,7 @@
 This project is licensed under the
 # 👨‍💻 Developer
 
-Built with ❤️ using **C++ & OpenCV**
-
----
+Built with ❤️ using **C+
 
 <p align="center">
 
