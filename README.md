@@ -7,6 +7,6 @@
 # 🎯 Future Improvements
 
 * 😎 Eye
-This project is licensed u
+This project is licen
 Buil
 ⭐ Star the repository 
