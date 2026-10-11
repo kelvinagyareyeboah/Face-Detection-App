@@ -7,7 +7,7 @@
 # 🎯 Future Improvements
 
 * 😎 Eye & smile d* 📸 Face snapshot capture
-* 📊 Detection analytics 
+* 📊 De
 1.
 
 # 📄 License
