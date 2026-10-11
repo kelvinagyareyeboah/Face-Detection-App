@@ -10,4 +10,4 @@
 This project is licensed under the
 
 Buil
-⭐ Star the repository if you f
+⭐ Star the repository 
