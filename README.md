@@ -8,7 +8,6 @@
 
 * 😎 Eye & smile d* 📸 Face snapshot capture
 * 📊 Detection analytics dashboa
-Contributions are welcome!
 
 ```bash id="1olcvf"
 1. Fork the repository
