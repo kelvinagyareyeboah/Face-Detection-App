@@ -6,5 +6,5 @@
 
 # 🎯 Future Improvem
 * 😎
-This proje
+This pro
 ⭐ 
