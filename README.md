@@ -1,3 +1,3 @@
 
 | `
-| `opencv2/imgcodecs
+| `opencv2/imgc
