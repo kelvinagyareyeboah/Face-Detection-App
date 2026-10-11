@@ -11,4 +11,4 @@ This project is licensed under the
 # 👨‍💻 Devel
 Built with ❤️ usin
 <p align="c
-⭐ Star the repository if you found tproje
+⭐ Star the repository if you found tpro
