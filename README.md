@@ -3,5 +3,3 @@
 | `opencv2/imgcodecs` | Image encoding/decoding |
 
 -
-#
-⭐ 
