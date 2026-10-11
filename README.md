@@ -11,7 +11,7 @@
 
 ```bash id="1olcvf"
 1. Fork the repository
-2. Create a feature branch
+2. Create 
 3. Comm
 4. Push to your branch
 5. Open ---
