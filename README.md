@@ -12,6 +12,4 @@ This project is licensed under the
 Built with ❤️ using **
 <p align="cent
 
-⭐ Star the repository if you found tproject usef
-
-<
+⭐ Star the repository if you found tproje
