@@ -1,4 +1,3 @@
-# Face Detection App
 
 Real-time face detection from ybuilt with C++ and OpenCV.
 
