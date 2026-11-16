@@ -1,6 +1,5 @@
 
-iler (GCC, Clang, or MSVC)
-- A working webcam
+ilerng webcam
 
 ## Build on Windows (Visual Studio)
 
