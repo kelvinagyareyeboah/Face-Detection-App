@@ -1,4 +1,4 @@
-detection from a live webc./face_detection
+webc./face_detection
 ```
 
 Run it from the project folder so the app can find `haarcascade_frontalface_default.xml`.
