@@ -1,4 +1,4 @@
-ave a single webcam, change it to `0` in `tes## Project Structure
+le webcam, change it to `0` in `tes## Project Structure
 
 ```text
 face-detection-app/
