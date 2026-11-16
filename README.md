@@ -1,7 +1,5 @@
 ibrary pencv_world480.lib` (match the version you installed).
-3. Build and run.
-
-## Configuration
+3. ## Configuration
 
 The app uses camera index `1` by default. If you have a single webcam, change it to `0` in `test.cpp`:
 
