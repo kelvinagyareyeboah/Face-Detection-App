@@ -1,5 +1,4 @@
-ibrary paths to your project.
-2. Link `opencv_world480.lib` (match the version you installed).
+ibrary pencv_world480.lib` (match the version you installed).
 3. Build and run.
 
 ## Configuration
