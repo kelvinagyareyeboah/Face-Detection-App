@@ -3,7 +3,7 @@ tps://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoC
 ![License](https://img.shields.io/badge/Licens
 - Real-time detection from a live webcam feed
 - 
-g++ test.cpp -o face_detection `pkg-config --cflags --libs opencv4`
+g++ test.cpp -o face_detection `pkg-config --c
 ./face_detection
 ```
 
