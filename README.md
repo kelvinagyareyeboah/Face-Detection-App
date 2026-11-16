@@ -1,5 +1,5 @@
                            # Main application
-├── haarcascade_frontalface_default.xml   #
+├── haarcascade_frontalffault.xml   #
 ```
 
 ## How It Works
