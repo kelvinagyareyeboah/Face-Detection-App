@@ -4,10 +4,7 @@ Real-time face detection from ybuilt with C++ and OpenCV.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
-The app opens your webcam, detects faces in each frame using a Haar Cascade classifier, draws a box around every face, and shows a live face count.
-
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-squa
 ## Features
 
 - Real-time detection from a live webcam feed
