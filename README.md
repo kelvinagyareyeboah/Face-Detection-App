@@ -10,8 +10,7 @@ Real-time face detection from ybuilt with C++ and OpenCV.
 - Real-time detection from a live webcam feed
 - Bounding boxes around each detected face
 - Live on-screen face count
-- Lightweight, with no GPU or extra models required
-
+- Lightweight, with no GPU or extra 
 ## Quick Start
 
 ```bash
