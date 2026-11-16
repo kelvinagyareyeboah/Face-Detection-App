@@ -1,4 +1,4 @@
-%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+uare&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8=opencv&logoColor=white)
 ![License](https://img.shields.io/badge/Licens
 - Real-time detection from a live webcam feed
