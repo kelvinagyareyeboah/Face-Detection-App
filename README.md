@@ -1,7 +1,5 @@
                            
-```
-e to grayscale.
-4. Detect faces with `detectMultiScale()`.
+```ltiScale()`.
 5. Draw a rectangle around each face and display the c
 | Problem | Fix |
 | --- | --- |
