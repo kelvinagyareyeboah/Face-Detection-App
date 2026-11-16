@@ -1,6 +1,4 @@
-
-
-## Build on Windows (Visual Studio)
+Windows (Visual Studio)
 
 1. Add the OpenCV include and library paths to your project.
 2. Link `opencv_world480.lib` (match the version you installed).
