@@ -1,5 +1,3 @@
-   
-## Roadmap
 
 - [ ] Eye and smile detection
 - [ ] Deep-learning face detection (e.g. DNN-based models)
