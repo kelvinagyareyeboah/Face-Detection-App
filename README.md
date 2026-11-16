@@ -2,9 +2,7 @@ tps://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoC
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8=opencv&logoColor=white)
 ![License](https://img.shields.io/badge/Licens
 - Real-time detection from a live webcam feed
-- Bounding boxe
-- Liv`cd face
-
+- 
 g++ test.cpp -o face_detection `pkg-config --cflags --libs opencv4`
 ./face_detection
 ```
