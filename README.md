@@ -4,7 +4,7 @@ detection (e.g. DNN-based models)
 
 ## Contributing
 
-Contributions are welcome. Fork the repo, create a feature branch, and open a pull request.
+Contributions are welcome. Fork the repo, create a feature branch, and a pull request.
 
 ## License
 
