@@ -2,7 +2,7 @@
 ```text
 face-detection-app/
 ├── test.cpp                              # Main application
-├── haarcascade_frontalface_default.xml   # Pre-trained face mod
+├── haarcascade_frontalface_default.xml   #
 ```
 
 ## How It Works
