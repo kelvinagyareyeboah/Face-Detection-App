@@ -1,4 +1,4 @@
-` by default. If you have a single webcam, change it to `0` in `tes## Project Structure
+ave a single webcam, change it to `0` in `tes## Project Structure
 
 ```text
 face-detection-app/
