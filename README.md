@@ -4,8 +4,5 @@ detection (e.g. DNN-based models)
 
 ## Contributing
 
-Contributions are welcome. Fork the repo, create a feature branch, and a pull request.
-
-## License
-
+Contributions are welcome. Fork the repo, create a feature branch, and a pull reque
 Released under the [MIT License](LICENSE).
