@@ -1,5 +1,4 @@
-                           # Main application
-├── haarcascade_frontalffault.xml   #
+                           
 ```
 
 ## How It Works
