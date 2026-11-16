@@ -4,9 +4,7 @@ tps://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoC
 - Real-time detection from a live webcam feed
 - Bounding boxe
 - Live o
-- Lightweight, with no GPU or extra 
-## Quick Start
-
+- Lightweight, with no GP
 ```bash
 git clone https://github.com/<your-username>/face-detection-app.git
 cd face-detection-app
