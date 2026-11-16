@@ -1,6 +1,4 @@
-
-- [ ] Eye and smileion
-- [ ] Deep-learning face detection (e.g. DNN-based models)
+detection (e.g. DNN-based models)
 - [ ] Save snapshots
 - [ ] Video recording
 
