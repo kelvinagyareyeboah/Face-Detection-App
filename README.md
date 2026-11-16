@@ -1,5 +1,4 @@
-
-![License](https://img.shields.io/badge/Licens
+s://img.shields.io/badge/Licens
 - Real-time detection from a live webc./face_detection
 ```
 
