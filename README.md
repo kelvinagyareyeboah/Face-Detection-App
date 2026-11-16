@@ -1,5 +1,4 @@
-        found" | Change the camera index from `1` to `0` |
-|ot found by pkg-config | Install OpenCV dev packages, e.g. `sudo apt install libopencv-dev` |
+        found" | Changl OpenCV dev packages, e.g. `sudo apt install libopencv-dev` |
 
 ## Roadmap
 
