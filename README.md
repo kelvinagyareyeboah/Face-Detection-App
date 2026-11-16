@@ -1,7 +1,5 @@
 
 
-quit *(adjust this
-
 ##
 - OpenCV 4.x
 - A C++ compiler (GCC, Clang, or MSVC)
