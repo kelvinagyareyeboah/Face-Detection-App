@@ -1,9 +1,7 @@
 ` by default. If you have a single webcam, change it to `0` in `test.cpp`:
 
 ```cpp
-VideoCapture video(0);
-```
-
+Video
 ## Project Structure
 
 ```text
