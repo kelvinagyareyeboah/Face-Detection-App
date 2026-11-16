@@ -5,7 +5,7 @@
 
 Run it from the project folder so the app can find `haarcascade_frontalface_default.xml`.
 
-Press `Esc` or `q` to quit *(adjust this to match your code)*.
+Press `Esc` or `q` to quit *(adjust this
 
 ## Requirements
 
