@@ -1,8 +1,4 @@
-` by default. If you have a single webcam, change it to `0` in `test.cpp`:
-
-```cpp
-Video
-## Project Structure
+` by default. If you have a single webcam, change it to `0` in `tes## Project Structure
 
 ```text
 face-detection-app/
