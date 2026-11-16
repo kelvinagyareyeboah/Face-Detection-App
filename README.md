@@ -3,11 +3,7 @@ tps://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoC
 ![License](https://img.shields.io/badge/Licens
 - Real-time detection from a live webcam feed
 - Bounding boxe
-- Live o
-- Lightweight, with no GP
-```bash
-git clone https://github.com/<your-username>/face-detection-app.git
-cd face-detection-app
+- Liv`cd face-detection-app
 
 g++ test.cpp -o face_detection `pkg-config --cflags --libs opencv4`
 ./face_detection
