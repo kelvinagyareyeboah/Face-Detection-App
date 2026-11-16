@@ -1,5 +1,4 @@
 
-ilerng webcam
 
 ## Build on Windows (Visual Studio)
 
