@@ -1,5 +1,4 @@
-/
-├── test.cpp                              # Main application
+                           # Main application
 ├── haarcascade_frontalface_default.xml   #
 ```
 
