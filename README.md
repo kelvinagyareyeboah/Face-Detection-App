@@ -2,10 +2,7 @@
 ```
 e to grayscale.
 4. Detect faces with `detectMultiScale()`.
-5. Draw a rectangle around each face and display the count.
-
-## Troubleshooting
-
+5. Draw a rectangle around each face and display the c
 | Problem | Fix |
 | --- | --- |
 | Black screen or "camera not found" | Change the camera index from `1` to `0` |
