@@ -1,9 +1,6 @@
 
 ![License](https://img.shields.io/badge/Licens
-- Real-time detection from a live webcam feed
-- 
-g++ test.cpp -o face_detecti
-./face_detection
+- Real-time detection from a live webc./face_detection
 ```
 
 Run it from the project folder so the app can find `haarcascade_frontalface_default.xml`.
