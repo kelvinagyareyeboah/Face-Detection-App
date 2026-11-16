@@ -1,8 +1,6 @@
                            
 ```
-
-## How It 2. Load the Haar Cascade model.
-3. Convert each frame to grayscale.
+e to grayscale.
 4. Detect faces with `detectMultiScale()`.
 5. Draw a rectangle around each face and display the count.
 
