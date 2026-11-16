@@ -1,4 +1,4 @@
-s://img.shields.io/badge/Licens
+io/badge/Licens
 - Real-time detection from a live webc./face_detection
 ```
 
