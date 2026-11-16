@@ -1,5 +1,4 @@
-        found" | Changl OpenCV dev packages, e.g. `sudo apt install libopencv-dev` |
-
+   
 ## Roadmap
 
 - [ ] Eye and smile detection
