@@ -1,6 +1,4 @@
-                           
-```ltiScale()`.
-5. Draw a rectara not found" | Change the camera index from `1` to `0` |
+        found" | Change the camera index from `1` to `0` |
 | Cascade file fails to load | Run the app from the folder con` file |
 | `opencv4` not found by pkg-config | Install OpenCV dev packages, e.g. `sudo apt install libopencv-dev` |
 
