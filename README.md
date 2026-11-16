@@ -1,6 +1,4 @@
-
-```text
-face-detection-app/
+/
 ├── test.cpp                              # Main application
 ├── haarcascade_frontalface_default.xml   #
 ```
