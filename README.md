@@ -1,5 +1,4 @@
-
-Real-time face detection from ybuilt with C++ and OpenCV.
+detection from ybuilt with C++ and OpenCV.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8=opencv&logoColor=white)
