@@ -1,7 +1,6 @@
 
 
-Run it from the project folder
-Press `Esc` or `q` to quit *(adjust this
+quit *(adjust this
 
 ## Requirements
 
