@@ -1,7 +1,4 @@
-
-3. ## Configuration
-
-The app uses camera index `1` by default. If you have a single webcam, change it to `0` in `test.cpp`:
+` by default. If you have a single webcam, change it to `0` in `test.cpp`:
 
 ```cpp
 VideoCapture video(0);
