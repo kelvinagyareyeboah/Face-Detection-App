@@ -1,8 +1,5 @@
 
-
-##
-- OpenCV 4.x
-- A C++ compiler (GCC, Clang, or MSVC)
+iler (GCC, Clang, or MSVC)
 - A working webcam
 
 ## Build on Windows (Visual Studio)
