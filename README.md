@@ -2,7 +2,7 @@
 ```ltiScale()`.
 5. Draw a rectangle around each face and d| --- | --- |
 | Black screen or "camera not found" | Change the camera index from `1` to `0` |
-| Cascade file fails to load | Run the app from the folder containing the `.xml` file |
+| Cascade file fails to load | Run the app from the folder con` file |
 | `opencv4` not found by pkg-config | Install OpenCV dev packages, e.g. `sudo apt install libopencv-dev` |
 
 ## Roadmap
