@@ -1,4 +1,4 @@
-E8=opencv&logoColor=white)
+
 ![License](https://img.shields.io/badge/Licens
 - Real-time detection from a live webcam feed
 - 
