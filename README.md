@@ -2,8 +2,7 @@
 
 quit *(adjust this
 
-## Requirements
-
+##
 - OpenCV 4.x
 - A C++ compiler (GCC, Clang, or MSVC)
 - A working webcam
