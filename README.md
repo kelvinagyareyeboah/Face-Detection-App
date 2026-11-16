@@ -6,7 +6,7 @@ Real-time face detection from ybuilt with C++ and OpenCV.
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8=opencv&logoColor=white)
 ![License](https://img.shields.io/badge/Licens
 - Real-time detection from a live webcam feed
-- Bounding boxes around each detected face
+- Bounding boxe
 - Live o
 - Lightweight, with no GPU or extra 
 ## Quick Start
