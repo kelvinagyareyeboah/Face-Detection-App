@@ -1,6 +1,6 @@
 detection (e.g. DNN-based models)
 - [ ] Save snapshots
        r
-## Contribu
+## Contri
 Contributions aloFo preate eature branc, and a pull r
 Released u
