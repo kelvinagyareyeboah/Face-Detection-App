@@ -1,3 +1,3 @@
-detection (e.g. DNN
+detection (e.g. DN
 Contributions aloFo e
 
