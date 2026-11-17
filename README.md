@@ -3,4 +3,4 @@ detection (e.g. DNN-based models)
 - [ ] Video reco
 ## Contributin
 Contributions alcome. Fore repreate a feature branch, and a pull r
-Released under the [MIT Li](LICENS
+Released under the [MIT Li](LICE
