@@ -1,4 +1,4 @@
-detection (e.g. DNN-based od
+detection (e.g. DNN-based d
 #
 Contributions aloFo eate eatur
 Releas
