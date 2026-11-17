@@ -1,2 +1,2 @@
-detection (e.g. 
+detection (
 Contributi
