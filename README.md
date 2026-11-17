@@ -1,4 +1,4 @@
-detection (e.g. DNN-based modes)
+detection (e.g. DNN-based mod
 - [ ] Sav
 ## 
 Contributions aloFo eate eature bn
