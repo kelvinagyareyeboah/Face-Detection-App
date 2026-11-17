@@ -1,5 +1,5 @@
 detection (e.g. DNN-based models)
-- [ ] Save sna
+- [ ] Save sn
 ## C
 Contributions aloFo eate eature bn
 Release
