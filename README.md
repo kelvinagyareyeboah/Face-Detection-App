@@ -1,4 +1,4 @@
-detection (e.g. DNN-base
+detection (e.g. DNN-bas
 #
 Contributions aloFo eate eat
 Relea
