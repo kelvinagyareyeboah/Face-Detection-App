@@ -3,4 +3,4 @@ detection (e.g. DNN-based models)
 - [ ] Video reco
 ## Contributin
 Contributions alcome. Fore repreate eature branch, and a pull r
-Released under the [MIT
+Released under the [M
