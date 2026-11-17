@@ -1,5 +1,5 @@
 detection (e.g. DNN-based models)
-- [ ] Save snapshots
+- [ ] Save snapsh
        r
 ## Contri
 Contributions aloFo preate eature bnc, and a pull r
